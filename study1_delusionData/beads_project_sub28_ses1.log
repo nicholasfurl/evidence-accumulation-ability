@@ -1,0 +1,734 @@
+Cog2000 log file Fri Feb 24 14:10:21 2017
+gprim v1.32 Compiled:Feb  5 2013 (GLib DirectDraw v7 DX10.0 Compiled:Feb  5 2013)
+Display:1024x768x32 59.95Hz
+Attaching C:\Cogent2000v1.32\Toolbox\CogInput.mexw64
+CogInput v1.05 Compiled: May 20 2010
+2	[2]	:	COGENT START
+2132	[2130]	:	Key	71	DOWN	at	2131    
+3164	[1032]	:	3146
+3166	[2]	:	1
+3168	[2]	:	trial 1.00 p: 0.70
+3180	[12]	:	1  1  2  1  2  1  2  1  1  1
+6205	[3025]	:	blue urn sequence, blue ball drawn
+12248	[6043]	:	subjects latest response 28.00 with RT 997.00
+12253	[5]	:	subject correctly chose blue
+16771	[4518]	:	trial 2.00 p: 0.70
+16773	[2]	:	2  1  1  1  2  2  1  1  1  1
+19789	[3016]	:	blue urn sequence, green ball drawn
+25823	[6034]	:	subjects latest response 28.00 with RT 1105.00
+25825	[2]	:	subject correctly chose blue
+30341	[4516]	:	trial 3.00 p: 0.70
+30343	[2]	:	1  1  1  1  1  1  2  2  2  1
+33359	[3016]	:	green urn sequence, green ball drawn
+39395	[6036]	:	subjects latest response 29.00 with RT -1295.00
+39398	[3]	:	subject correctly chose green
+43912	[4514]	:	trial 4.00 p: 0.70
+43914	[2]	:	2  1  1  1  2  1  1  1  1  2
+46930	[3016]	:	green urn sequence, blue ball drawn
+52965	[6035]	:	subjects latest response 28.00 with RT 996.00
+52968	[3]	:	the subject did not provide a correct response
+57483	[4515]	:	trial 5.00 p: 0.70
+57485	[2]	:	1  1  1  2  2  1  2  1  1  1
+60500	[3015]	:	blue urn sequence, blue ball drawn
+66552	[6052]	:	subjects latest response 28.00 with RT 1023.00
+66554	[2]	:	subject correctly chose blue
+71087	[4533]	:	trial 6.00 p: 0.70
+71089	[2]	:	1  2  1  1  1  1  2  2  1  1
+74121	[3032]	:	blue urn sequence, blue ball drawn
+80174	[6053]	:	subjects latest response 28.00 with RT 828.00
+80176	[2]	:	subject correctly chose blue
+84708	[4532]	:	trial 7.00 p: 0.70
+84710	[2]	:	1  2  2  1  2  1  1  1  1  1
+87742	[3032]	:	blue urn sequence, blue ball drawn
+93795	[6053]	:	subjects latest response 28.00 with RT 1677.00
+93797	[2]	:	subject correctly chose blue
+98329	[4532]	:	trial 8.00 p: 0.70
+98331	[2]	:	1  2  1  2  1  1  1  2  1  1
+101362	[3031]	:	green urn sequence, green ball drawn
+107399	[6037]	:	subjects latest response 29.00 with RT 364.00
+107401	[2]	:	subject correctly chose green
+111933	[4532]	:	trial 9.00 p: 0.70
+111935	[2]	:	2  1  1  1  1  1  2  1  1  2
+114950	[3015]	:	green urn sequence, blue ball drawn
+121003	[6053]	:	subjects latest response 28.00 with RT 990.00
+121005	[2]	:	the subject did not provide a correct response
+125538	[4533]	:	trial 10.00 p: 0.70
+125540	[2]	:	1  1  1  1  1  2  2  1  2  1
+128571	[3031]	:	green urn sequence, green ball drawn
+134606	[6035]	:	subjects latest response 30.00 with RT 747.00
+134607	[1]	:	subject chose draw again
+134608	[1]	:	green urn sequence, green ball drawn
+140643	[6035]	:	subjects latest response 30.00 with RT 1137.00
+140645	[2]	:	subject chose draw again
+140646	[1]	:	green urn sequence, green ball drawn
+146678	[6032]	:	subjects latest response 29.00 with RT 732.00
+146680	[2]	:	subject correctly chose green
+151196	[4516]	:	trial 11.00 p: 0.70
+151197	[1]	:	2  1  1  1  1  1  2  1  1  2
+154212	[3015]	:	blue urn sequence, green ball drawn
+160248	[6036]	:	subjects latest response 0.00 with RT -156748.00
+160249	[1]	:	the subject did not provide a correct response
+164767	[4518]	:	trial 12.00 p: 0.70
+164769	[2]	:	1  1  1  1  1  2  1  2  2  1
+167800	[3031]	:	blue urn sequence, blue ball drawn
+173836	[6036]	:	subjects latest response 29.00 with RT -140.00
+173839	[3]	:	the subject did not provide a correct response
+178355	[4516]	:	trial 13.00 p: 0.70
+178357	[2]	:	1  1  1  2  2  2  1  1  1  1
+181371	[3014]	:	blue urn sequence, blue ball drawn
+187407	[6036]	:	subjects latest response 30.00 with RT -1295.00
+187409	[2]	:	subject chose draw again
+187411	[2]	:	blue urn sequence, blue ball drawn
+193459	[6048]	:	subjects latest response 30.00 with RT 1999.00
+193461	[2]	:	subject chose draw again
+193463	[2]	:	blue urn sequence, blue ball drawn
+199494	[6031]	:	subjects latest response 30.00 with RT 1979.00
+199496	[2]	:	subject chose draw again
+199498	[2]	:	blue urn sequence, green ball drawn
+205529	[6031]	:	subjects latest response 29.00 with RT 384.00
+205535	[6]	:	the subject did not provide a correct response
+210047	[4512]	:	trial 14.00 p: 0.70
+210049	[2]	:	2  1  1  1  2  1  1  2  1  1
+213065	[3016]	:	blue urn sequence, green ball drawn
+219101	[6036]	:	subjects latest response 29.00 with RT 1094.00
+219103	[2]	:	the subject did not provide a correct response
+223618	[4515]	:	trial 15.00 p: 0.70
+223620	[2]	:	2  1  2  1  2  1  1  1  1  1
+226635	[3015]	:	blue urn sequence, green ball drawn
+232672	[6037]	:	subjects latest response 29.00 with RT -3711.00
+232674	[2]	:	the subject did not provide a correct response
+237189	[4515]	:	trial 16.00 p: 0.70
+237191	[2]	:	1  1  1  1  2  2  2  1  1  1
+240206	[3015]	:	green urn sequence, green ball drawn
+246243	[6037]	:	subjects latest response 30.00 with RT 833.00
+246245	[2]	:	subject chose draw again
+246247	[2]	:	green urn sequence, green ball drawn
+252277	[6030]	:	subjects latest response 0.00 with RT -248776.00
+252277	[0]	:	the subject did not provide a correct response
+256796	[4519]	:	trial 17.00 p: 0.70
+256798	[2]	:	1  1  2  1  2  1  2  1  1  1
+259812	[3014]	:	green urn sequence, green ball drawn
+265849	[6037]	:	subjects latest response 30.00 with RT 563.00
+265851	[2]	:	subject chose draw again
+265852	[1]	:	green urn sequence, green ball drawn
+271884	[6032]	:	subjects latest response 32.00 with RT 1428.00
+271886	[2]	:	the subject did not provide a correct response
+276401	[4515]	:	trial 18.00 p: 0.70
+276403	[2]	:	1  2  2  1  1  1  1  1  1  2
+279418	[3015]	:	blue urn sequence, blue ball drawn
+285455	[6037]	:	subjects latest response 30.00 with RT 1218.00
+285457	[2]	:	subject chose draw again
+285459	[2]	:	blue urn sequence, green ball drawn
+291490	[6031]	:	subjects latest response 31.00 with RT 53.00
+291492	[2]	:	the subject did not provide a correct response
+296007	[4515]	:	trial 19.00 p: 0.70
+296009	[2]	:	1  1  2  1  1  2  2  1  1  1
+299025	[3016]	:	green urn sequence, green ball drawn
+305061	[6036]	:	subjects latest response 29.00 with RT 308.00
+305063	[2]	:	subject correctly chose green
+309579	[4516]	:	trial 20.00 p: 0.70
+309581	[2]	:	1  2  2  1  1  2  1  1  1  1
+312595	[3014]	:	green urn sequence, green ball drawn
+318632	[6037]	:	subjects latest response 29.00 with RT 1068.00
+318634	[2]	:	subject correctly chose green
+323150	[4516]	:	trial 21.00 p: 0.70
+323152	[2]	:	1  1  1  2  1  1  1  2  2  1
+326166	[3014]	:	green urn sequence, green ball drawn
+332202	[6036]	:	subjects latest response 28.00 with RT 814.00
+332204	[2]	:	the subject did not provide a correct response
+336721	[4517]	:	trial 22.00 p: 0.70
+336723	[2]	:	1  1  1  1  2  1  2  2  1  1
+339738	[3015]	:	blue urn sequence, blue ball drawn
+345773	[6035]	:	subjects latest response 29.00 with RT 3468.00
+345775	[2]	:	the subject did not provide a correct response
+350291	[4516]	:	trial 23.00 p: 0.70
+350293	[2]	:	1  1  1  1  2  1  1  2  2  1
+353309	[3016]	:	blue urn sequence, blue ball drawn
+359344	[6035]	:	subjects latest response 30.00 with RT 328.00
+359346	[2]	:	subject chose draw again
+359348	[2]	:	blue urn sequence, blue ball drawn
+365379	[6031]	:	subjects latest response 31.00 with RT 1183.00
+365381	[2]	:	the subject did not provide a correct response
+369897	[4516]	:	trial 24.00 p: 0.70
+369898	[1]	:	2  2  1  1  1  1  1  1  2  1
+372915	[3017]	:	blue urn sequence, green ball drawn
+378950	[6035]	:	subjects latest response 30.00 with RT 3058.00
+378952	[2]	:	subject chose draw again
+378953	[1]	:	blue urn sequence, green ball drawn
+384985	[6032]	:	subjects latest response 29.00 with RT 1104.00
+384987	[2]	:	the subject did not provide a correct response
+389504	[4517]	:	trial 25.00 p: 0.70
+389506	[2]	:	1  1  1  1  2  1  2  2  1  1
+392521	[3015]	:	green urn sequence, green ball drawn
+398556	[6035]	:	subjects latest response 29.00 with RT 1503.00
+398558	[2]	:	subject correctly chose green
+403074	[4516]	:	trial 26.00 p: 0.70
+403076	[2]	:	1  1  1  2  1  2  1  1  2  1
+406092	[3016]	:	green urn sequence, green ball drawn
+412127	[6035]	:	subjects latest response 30.00 with RT -5277.00
+412129	[2]	:	subject chose draw again
+412131	[2]	:	green urn sequence, green ball drawn
+418162	[6031]	:	subjects latest response 0.00 with RT -414661.00
+418168	[6]	:	the subject did not provide a correct response
+422698	[4530]	:	trial 27.00 p: 0.70
+422700	[2]	:	1  1  2  1  1  1  1  2  1  2
+425715	[3015]	:	green urn sequence, green ball drawn
+431750	[6035]	:	subjects latest response 30.00 with RT 2811.00
+431752	[2]	:	subject chose draw again
+431754	[2]	:	green urn sequence, green ball drawn
+437785	[6031]	:	subjects latest response 0.00 with RT -434284.00
+437787	[2]	:	the subject did not provide a correct response
+442304	[4517]	:	trial 28.00 p: 0.70
+442305	[1]	:	2  2  1  1  1  1  1  1  1  2
+445321	[3016]	:	blue urn sequence, green ball drawn
+451356	[6035]	:	subjects latest response 29.00 with RT 1716.00
+451358	[2]	:	the subject did not provide a correct response
+455891	[4533]	:	trial 29.00 p: 0.70
+455893	[2]	:	1  2  1  1  1  1  1  2  1  2
+458909	[3016]	:	blue urn sequence, blue ball drawn
+464944	[6035]	:	subjects latest response 30.00 with RT -1016.00
+464946	[2]	:	subject chose draw again
+464948	[2]	:	blue urn sequence, green ball drawn
+470979	[6031]	:	subjects latest response 30.00 with RT -1521.00
+470981	[2]	:	subject chose draw again
+470982	[1]	:	blue urn sequence, blue ball drawn
+477015	[6033]	:	subjects latest response 31.00 with RT -1526.00
+477017	[2]	:	the subject did not provide a correct response
+481533	[4516]	:	trial 30.00 p: 0.70
+481535	[2]	:	1  1  2  1  2  1  1  2  1  1
+484549	[3014]	:	blue urn sequence, blue ball drawn
+490586	[6037]	:	subjects latest response 30.00 with RT -1912.00
+490588	[2]	:	subject chose draw again
+490589	[1]	:	blue urn sequence, blue ball drawn
+496621	[6032]	:	subjects latest response 31.00 with RT -1981.00
+496623	[2]	:	the subject did not provide a correct response
+501139	[4516]	:	trial 31.00 p: 0.70
+501141	[2]	:	2  1  1  1  2  2  1  1  1  1
+504155	[3014]	:	blue urn sequence, green ball drawn
+510192	[6037]	:	subjects latest response 30.00 with RT -3647.00
+510194	[2]	:	subject chose draw again
+510195	[1]	:	blue urn sequence, blue ball drawn
+516227	[6032]	:	subjects latest response 30.00 with RT -81.00
+516229	[2]	:	subject chose draw again
+516230	[1]	:	blue urn sequence, blue ball drawn
+522260	[6030]	:	subjects latest response 0.00 with RT -518760.00
+522263	[3]	:	the subject did not provide a correct response
+526781	[4518]	:	trial 32.00 p: 0.70
+526783	[2]	:	1  2  2  1  2  1  1  1  1  1
+529797	[3014]	:	green urn sequence, green ball drawn
+535833	[6036]	:	subjects latest response 31.00 with RT 1344.00
+535835	[2]	:	the subject did not provide a correct response
+540351	[4516]	:	trial 33.00 p: 0.70
+540353	[2]	:	2  2  1  2  1  1  1  1  1  1
+543368	[3015]	:	green urn sequence, blue ball drawn
+549404	[6036]	:	subjects latest response 30.00 with RT 2309.00
+549406	[2]	:	subject chose draw again
+549408	[2]	:	green urn sequence, blue ball drawn
+555439	[6031]	:	subjects latest response 29.00 with RT 659.00
+555441	[2]	:	subject correctly chose green
+559957	[4516]	:	trial 34.00 p: 0.70
+559959	[2]	:	2  2  1  1  1  2  1  1  1  1
+562974	[3015]	:	green urn sequence, blue ball drawn
+569010	[6036]	:	subjects latest response 28.00 with RT -5001.00
+569012	[2]	:	the subject did not provide a correct response
+573528	[4516]	:	trial 35.00 p: 0.70
+573530	[2]	:	1  1  1  1  1  1  2  2  1  2
+576545	[3015]	:	green urn sequence, green ball drawn
+582581	[6036]	:	subjects latest response 28.00 with RT -1316.00
+582583	[2]	:	the subject did not provide a correct response
+587099	[4516]	:	trial 36.00 p: 0.70
+587101	[2]	:	2  1  1  1  1  2  1  2  1  1
+590116	[3015]	:	green urn sequence, blue ball drawn
+596152	[6036]	:	subjects latest response 29.00 with RT 1369.00
+596154	[2]	:	subject correctly chose green
+600670	[4516]	:	trial 37.00 p: 0.70
+600672	[2]	:	2  1  1  1  2  2  1  1  1  1
+603687	[3015]	:	green urn sequence, blue ball drawn
+609723	[6036]	:	subjects latest response 0.00 with RT -606221.00
+609725	[2]	:	the subject did not provide a correct response
+614241	[4516]	:	trial 38.00 p: 0.70
+614243	[2]	:	1  2  1  1  1  1  2  1  2  1
+617258	[3015]	:	blue urn sequence, blue ball drawn
+623294	[6036]	:	subjects latest response 29.00 with RT 634.00
+623299	[5]	:	the subject did not provide a correct response
+627811	[4512]	:	trial 39.00 p: 0.70
+627813	[2]	:	1  1  1  2  1  1  1  1  2  2
+630829	[3016]	:	blue urn sequence, blue ball drawn
+636865	[6036]	:	subjects latest response 28.00 with RT 1103.00
+636867	[2]	:	subject correctly chose blue
+641383	[4516]	:	trial 40.00 p: 0.70
+641385	[2]	:	1  1  1  1  2  2  1  2  1  1
+644399	[3014]	:	green urn sequence, green ball drawn
+650436	[6037]	:	subjects latest response 29.00 with RT 2623.00
+650438	[2]	:	subject correctly chose green
+654983	[4545]	:	COGENT STOP
+Cog2000 log file Fri Feb 24 14:22:49 2017
+gprim v1.32 Compiled:Feb  5 2013 (GLib DirectDraw v7 DX10.0 Compiled:Feb  5 2013)
+Display:1280x1024x32 59.95Hz
+CogInput v1.05 Compiled: May 20 2010
+1	[1]	:	COGENT START
+17682	[17681]	:	Key	71	DOWN	at	17682   
+17867	[185]	:	Key	71	UP	at	17867   
+19997	[2130]	:	Key	30	DOWN	at	19997   
+23853	[3856]	:	Key	31	DOWN	at	23853   
+30883	[7030]	:	Key	30	DOWN	at	30883   
+34228	[3345]	:	Key	30	DOWN	at	34228   
+38500	[4272]	:	Key	30	DOWN	at	38500   
+42630	[4130]	:	Key	29	DOWN	at	42630   
+47115	[4485]	:	Key	30	DOWN	at	47115   
+49445	[2330]	:	Key	30	DOWN	at	49445   
+51660	[2215]	:	Key	31	DOWN	at	51660   
+53925	[2265]	:	Key	30	DOWN	at	53925   
+56546	[2621]	:	Key	31	DOWN	at	56546   
+59846	[3300]	:	Key	32	DOWN	at	59846   
+63026	[3180]	:	Key	32	DOWN	at	63026   
+67506	[4480]	:	Key	29	DOWN	at	67506   
+78402	[10896]	:	Key	31	DOWN	at	78402   
+81722	[3320]	:	Key	31	DOWN	at	81722   
+102068	[20346]	:	Key	31	DOWN	at	102068  
+109589	[7521]	:	Key	31	DOWN	at	109589  
+119619	[10030]	:	Key	30	DOWN	at	119619  
+122274	[2655]	:	Key	34	DOWN	at	122274  
+124549	[2275]	:	Key	34	DOWN	at	124549  
+126565	[2016]	:	Key	34	DOWN	at	126565  
+129570	[3005]	:	Key	34	DOWN	at	129570  
+131970	[2400]	:	Key	34	DOWN	at	131970  
+134765	[2795]	:	Key	31	DOWN	at	134765  
+136700	[1935]	:	Key	33	DOWN	at	136700  
+138850	[2150]	:	Key	30	DOWN	at	138850  
+140565	[1715]	:	Key	31	DOWN	at	140565  
+142290	[1725]	:	Key	32	DOWN	at	142290  
+144141	[1851]	:	Key	31	UP	at	144141  
+146516	[2375]	:	Key	31	DOWN	at	146516  
+148366	[1850]	:	Key	33	DOWN	at	148366  
+150076	[1710]	:	Key	34	DOWN	at	150076  
+151971	[1895]	:	Key	30	DOWN	at	151971  
+154316	[2345]	:	Key	33	DOWN	at	154316  
+156036	[1720]	:	Key	30	DOWN	at	156036  
+158061	[2025]	:	Key	30	DOWN	at	158061  
+159531	[1470]	:	Key	31	DOWN	at	159531  
+161542	[2011]	:	Key	30	DOWN	at	161542  
+162802	[1260]	:	Key	29	DOWN	at	162802  
+164882	[2080]	:	Key	31	DOWN	at	164882  
+167270	[2388]	:	Key	29	DOWN	at	167270  
+168795	[1525]	:	Key	31	DOWN	at	168795  
+171530	[2735]	:	Key	31	DOWN	at	171530  
+175555	[4025]	:	Key	31	DOWN	at	175555  
+180091	[4536]	:	Key	31	DOWN	at	180091  
+182771	[2680]	:	Key	30	DOWN	at	182771  
+184421	[1650]	:	Key	30	DOWN	at	184421  
+186421	[2000]	:	Key	30	DOWN	at	186421  
+188851	[2430]	:	Key	29	DOWN	at	188851  
+190796	[1945]	:	Key	30	DOWN	at	190796  
+195667	[4871]	:	Key	30	DOWN	at	195667  
+197202	[1535]	:	Key	31	DOWN	at	197202  
+199237	[2035]	:	Key	32	DOWN	at	199237  
+200922	[1685]	:	Key	33	DOWN	at	200922  
+202502	[1580]	:	Key	32	DOWN	at	202502  
+204387	[1885]	:	Key	30	DOWN	at	204387  
+206942	[2555]	:	Key	31	DOWN	at	206942  
+209522	[2580]	:	Key	33	DOWN	at	209522  
+211547	[2025]	:	Key	29	DOWN	at	211547  
+213213	[1666]	:	Key	31	DOWN	at	213213  
+215618	[2405]	:	Key	32	DOWN	at	215618  
+217958	[2340]	:	Key	31	DOWN	at	217958  
+219748	[1790]	:	Key	32	DOWN	at	219748  
+222418	[2670]	:	Key	33	DOWN	at	222418  
+225043	[2625]	:	Key	33	DOWN	at	225043  
+230164	[5121]	:	Key	30	DOWN	at	230164  
+231949	[1785]	:	Key	31	DOWN	at	231949  
+235164	[3215]	:	Key	29	DOWN	at	235164  
+239374	[4210]	:	Key	32	DOWN	at	239374  
+244369	[4995]	:	Key	32	DOWN	at	244369  
+253210	[8841]	:	Key	31	DOWN	at	253210  
+258404	[5194]	:	Key	33	DOWN	at	258404  
+260425	[2021]	:	Key	34	DOWN	at	260425  
+262685	[2260]	:	Key	35	DOWN	at	262685  
+265891	[3206]	:	Key	33	DOWN	at	265891  
+269012	[3121]	:	Key	31	DOWN	at	269012  
+274462	[5450]	:	Key	32	DOWN	at	274462  
+279772	[5310]	:	Key	33	DOWN	at	279772  
+283348	[3576]	:	Key	33	DOWN	at	283348  
+290748	[7400]	:	Key	33	DOWN	at	290748  
+293203	[2455]	:	Key	31	DOWN	at	293203  
+298948	[5745]	:	Key	30	DOWN	at	298948  
+300709	[1761]	:	Key	30	DOWN	at	300709  
+305094	[4385]	:	Key	31	DOWN	at	305094  
+309419	[4325]	:	Key	31	DOWN	at	309419  
+311059	[1640]	:	Key	31	DOWN	at	311059  
+313379	[2320]	:	Key	32	DOWN	at	313379  
+316529	[3150]	:	Key	32	DOWN	at	316529  
+318430	[1901]	:	Key	33	DOWN	at	318430  
+322150	[3720]	:	Key	33	DOWN	at	322150  
+323217	[1067]	:	COGENT STOP
+Cog2000 log file Fri Feb 24 14:28:23 2017
+gprim v1.32 Compiled:Feb  5 2013 (GLib DirectDraw v7 DX10.0 Compiled:Feb  5 2013)
+Display:1280x1024x32 59.95Hz
+CogInput v1.05 Compiled: May 20 2010
+1	[1]	:	COGENT START
+5207	[5206]	:	Key	71	DOWN	at	5207    
+5293	[86]	:	Key	71	UP	at	5262    
+5872	[579]	:	Key	29	DOWN	at	5872    
+9742	[3870]	:	Key	30	DOWN	at	9742    
+13077	[3335]	:	Key	29	DOWN	at	13077   
+15317	[2240]	:	Key	30	DOWN	at	15317   
+17572	[2255]	:	Key	30	DOWN	at	17572   
+20613	[3041]	:	Key	31	DOWN	at	20613   
+23453	[2840]	:	Key	31	DOWN	at	23453   
+25558	[2105]	:	Key	29	DOWN	at	25558   
+27693	[2135]	:	Key	30	DOWN	at	27693   
+31198	[3505]	:	Key	31	DOWN	at	31198   
+33783	[2585]	:	Key	30	DOWN	at	33783   
+36368	[2585]	:	Key	29	DOWN	at	36368   
+40424	[4056]	:	Key	31	DOWN	at	40424   
+43734	[3310]	:	Key	31	DOWN	at	43734   
+45654	[1920]	:	Key	30	DOWN	at	45654   
+48389	[2735]	:	Key	29	DOWN	at	48389   
+49934	[1545]	:	Key	30	DOWN	at	49934   
+51840	[1906]	:	Key	31	DOWN	at	51840   
+53820	[1980]	:	Key	32	DOWN	at	53820   
+56566	[2746]	:	Key	31	DOWN	at	56566   
+58991	[2425]	:	Key	30	DOWN	at	58991   
+61176	[2185]	:	Key	30	DOWN	at	61176   
+63366	[2190]	:	Key	29	DOWN	at	63366   
+66461	[3095]	:	Key	29	DOWN	at	66461   
+73077	[6616]	:	Key	30	DOWN	at	73077   
+75127	[2050]	:	Key	29	DOWN	at	75127   
+76342	[1215]	:	Key	31	DOWN	at	76342   
+78422	[2080]	:	Key	32	DOWN	at	78422   
+80877	[2455]	:	Key	32	DOWN	at	80877   
+82447	[1570]	:	Key	31	DOWN	at	82447   
+84312	[1865]	:	Key	30	DOWN	at	84312   
+85752	[1440]	:	Key	29	DOWN	at	85752   
+87017	[1265]	:	Key	30	UP	at	87017   
+87807	[790]	:	Key	31	DOWN	at	87807   
+89918	[2111]	:	Key	33	DOWN	at	89918   
+91673	[1755]	:	Key	32	DOWN	at	91673   
+94598	[2925]	:	Key	31	DOWN	at	94598   
+96718	[2120]	:	Key	30	DOWN	at	96718   
+98853	[2135]	:	Key	31	DOWN	at	98853   
+102233	[3380]	:	Key	32	DOWN	at	102233  
+104868	[2635]	:	Key	31	DOWN	at	104868  
+107469	[2601]	:	Key	31	DOWN	at	107469  
+109984	[2515]	:	Key	30	DOWN	at	109984  
+112454	[2470]	:	Key	31	DOWN	at	112454  
+117229	[4775]	:	Key	31	DOWN	at	117229  
+119429	[2200]	:	Key	30	DOWN	at	119429  
+121679	[2250]	:	Key	29	DOWN	at	121679  
+125695	[4016]	:	Key	29	DOWN	at	125695  
+127640	[1945]	:	Key	30	DOWN	at	127640  
+132325	[4685]	:	Key	31	DOWN	at	132325  
+134525	[2200]	:	Key	30	DOWN	at	134525  
+136401	[1876]	:	Key	31	DOWN	at	136401  
+138471	[2070]	:	Key	31	DOWN	at	138471  
+140421	[1950]	:	Key	30	DOWN	at	140421  
+143077	[2656]	:	Key	32	DOWN	at	143077  
+145537	[2460]	:	Key	30	DOWN	at	145537  
+149367	[3830]	:	Key	29	DOWN	at	149367  
+151437	[2070]	:	Key	31	DOWN	at	151437  
+154697	[3260]	:	Key	31	DOWN	at	154697  
+157767	[3070]	:	Key	30	DOWN	at	157767  
+160198	[2431]	:	Key	29	DOWN	at	160198  
+162333	[2135]	:	Key	30	DOWN	at	162333  
+164823	[2490]	:	Key	31	DOWN	at	164823  
+168543	[3720]	:	Key	31	DOWN	at	168543  
+172023	[3480]	:	Key	30	DOWN	at	172023  
+177529	[5506]	:	Key	31	DOWN	at	177529  
+179629	[2100]	:	Key	31	DOWN	at	179629  
+184489	[4860]	:	Key	31	DOWN	at	184489  
+190509	[6020]	:	Key	30	DOWN	at	190509  
+192584	[2075]	:	Key	31	DOWN	at	192584  
+196625	[4041]	:	Key	31	DOWN	at	196625  
+201165	[4540]	:	Key	31	DOWN	at	201165  
+203225	[2060]	:	Key	32	DOWN	at	203225  
+206695	[3470]	:	Key	32	DOWN	at	206695  
+214576	[7881]	:	Key	32	DOWN	at	214576  
+218471	[3895]	:	Key	32	DOWN	at	218471  
+221721	[3250]	:	Key	32	DOWN	at	221721  
+223791	[2070]	:	Key	31	DOWN	at	223791  
+225981	[2190]	:	Key	32	DOWN	at	225981  
+227536	[1555]	:	Key	31	DOWN	at	227536  
+229217	[1681]	:	Key	32	DOWN	at	229217  
+230542	[1325]	:	Key	32	DOWN	at	230542  
+233577	[3035]	:	Key	32	DOWN	at	233577  
+237192	[3615]	:	Key	31	DOWN	at	237192  
+242367	[5175]	:	Key	32	DOWN	at	242367  
+245887	[3520]	:	Key	32	DOWN	at	245887  
+251408	[5521]	:	Key	32	DOWN	at	251408  
+255718	[4310]	:	Key	32	DOWN	at	255718  
+262183	[6465]	:	Key	31	DOWN	at	262183  
+264369	[2186]	:	Key	30	DOWN	at	264369  
+267769	[3400]	:	Key	31	DOWN	at	267769  
+268909	[1140]	:	COGENT STOP
+Cog2000 log file Fri Feb 24 14:33:01 2017
+gprim v1.32 Compiled:Feb  5 2013 (GLib DirectDraw v7 DX10.0 Compiled:Feb  5 2013)
+Display:1280x1024x32 59.99Hz
+CogInput v1.05 Compiled: May 20 2010
+1	[1]	:	COGENT START
+6516	[6515]	:	Key	71	DOWN	at	6516    
+6651	[135]	:	Key	71	UP	at	6651    
+7566	[915]	:	Key	32	DOWN	at	7566    
+9366	[1800]	:	Key	31	DOWN	at	9366    
+10866	[1500]	:	Key	29	DOWN	at	10866   
+12286	[1420]	:	Key	30	DOWN	at	12286   
+13556	[1270]	:	Key	32	DOWN	at	13556   
+15621	[2065]	:	Key	33	DOWN	at	15621   
+17946	[2325]	:	Key	34	DOWN	at	17946   
+19466	[1520]	:	Key	29	DOWN	at	19466   
+21532	[2066]	:	Key	30	DOWN	at	21532   
+24252	[2720]	:	Key	31	DOWN	at	24252   
+28022	[3770]	:	Key	32	DOWN	at	28022   
+30787	[2765]	:	Key	32	DOWN	at	30787   
+32052	[1265]	:	Key	33	DOWN	at	32052   
+34102	[2050]	:	Key	30	DOWN	at	34102   
+36147	[2045]	:	Key	30	DOWN	at	36147   
+38918	[2771]	:	Key	29	DOWN	at	38918   
+42333	[3415]	:	Key	29	DOWN	at	42333   
+46053	[3720]	:	Key	29	DOWN	at	46053   
+49598	[3545]	:	Key	30	DOWN	at	49598   
+52538	[2940]	:	Key	31	DOWN	at	52538   
+54853	[2315]	:	Key	30	DOWN	at	54853   
+55992	[1139]	:	Key	29	UP	at	55949   
+56739	[747]	:	Key	31	DOWN	at	56739   
+58124	[1385]	:	Key	30	DOWN	at	58124   
+59749	[1625]	:	Key	31	DOWN	at	59749   
+61579	[1830]	:	Key	30	DOWN	at	61579   
+67899	[6320]	:	Key	30	DOWN	at	67899   
+72134	[4235]	:	Key	30	DOWN	at	72134   
+73845	[1711]	:	Key	30	DOWN	at	73845   
+76005	[2160]	:	Key	31	DOWN	at	76005   
+77195	[1190]	:	Key	30	DOWN	at	77195   
+79355	[2160]	:	Key	31	DOWN	at	79355   
+80915	[1560]	:	Key	30	DOWN	at	80915   
+82780	[1865]	:	Key	30	DOWN	at	82780   
+84070	[1290]	:	Key	29	DOWN	at	84070   
+85540	[1470]	:	Key	31	DOWN	at	85540   
+87010	[1470]	:	Key	31	DOWN	at	87010   
+89570	[2560]	:	Key	31	DOWN	at	89570   
+91511	[1941]	:	Key	31	DOWN	at	91511   
+96171	[4660]	:	Key	31	DOWN	at	96171   
+98116	[1945]	:	Key	31	DOWN	at	98116   
+99851	[1735]	:	Key	30	DOWN	at	99851   
+102786	[2935]	:	Key	30	DOWN	at	102786  
+104771	[1985]	:	Key	30	DOWN	at	104771  
+113022	[8251]	:	Key	30	DOWN	at	113022  
+117252	[4230]	:	Key	31	DOWN	at	117252  
+131027	[13775]	:	Key	30	DOWN	at	131027  
+136788	[5761]	:	Key	31	DOWN	at	136788  
+138613	[1825]	:	Key	32	DOWN	at	138613  
+140778	[2165]	:	Key	33	DOWN	at	140778  
+142163	[1385]	:	Key	34	UP	at	142163  
+153494	[11331]	:	Key	32	DOWN	at	153494  
+154894	[1400]	:	Key	33	DOWN	at	154894  
+157914	[3020]	:	Key	31	DOWN	at	157914  
+159164	[1250]	:	Key	30	UP	at	159164  
+161470	[2306]	:	Key	32	DOWN	at	161470  
+163510	[2040]	:	Key	33	DOWN	at	163510  
+165795	[2285]	:	Key	34	DOWN	at	165795  
+167300	[1505]	:	Key	35	DOWN	at	167300  
+169140	[1840]	:	Key	30	DOWN	at	169140  
+171110	[1970]	:	Key	31	DOWN	at	171110  
+174795	[3685]	:	Key	29	DOWN	at	174795  
+178511	[3716]	:	Key	32	DOWN	at	178511  
+186756	[8245]	:	Key	33	DOWN	at	186756  
+189861	[3105]	:	Key	34	DOWN	at	189861  
+191916	[2055]	:	Key	34	DOWN	at	191916  
+194226	[2310]	:	Key	33	DOWN	at	194226  
+195982	[1756]	:	Key	32	DOWN	at	195982  
+197667	[1685]	:	Key	31	DOWN	at	197667  
+199317	[1650]	:	Key	30	DOWN	at	199317  
+201042	[1725]	:	Key	29	DOWN	at	201042  
+202667	[1625]	:	Key	33	DOWN	at	202667  
+204427	[1760]	:	Key	32	DOWN	at	204427  
+206332	[1905]	:	Key	33	DOWN	at	206332  
+207947	[1615]	:	Key	34	DOWN	at	207947  
+209252	[1305]	:	Key	35	DOWN	at	209252  
+210867	[1615]	:	Key	35	DOWN	at	210867  
+213398	[2531]	:	Key	35	DOWN	at	213398  
+215603	[2205]	:	Key	35	DOWN	at	215603  
+219418	[3815]	:	Key	36	DOWN	at	219418  
+221058	[1640]	:	Key	36	DOWN	at	221058  
+225038	[3980]	:	Key	36	DOWN	at	225038  
+227083	[2045]	:	Key	36	DOWN	at	227083  
+230298	[3215]	:	Key	36	DOWN	at	230298  
+234334	[4036]	:	Key	31	DOWN	at	234334  
+235659	[1325]	:	Key	30	DOWN	at	235659  
+239909	[4250]	:	Key	31	DOWN	at	239909  
+242789	[2880]	:	Key	28	DOWN	at	242789  
+245579	[2790]	:	Key	30	DOWN	at	245579  
+247884	[2305]	:	Key	31	DOWN	at	247884  
+250415	[2531]	:	Key	31	DOWN	at	250415  
+255405	[4990]	:	Key	32	DOWN	at	255405  
+258290	[2885]	:	Key	33	DOWN	at	258290  
+259485	[1195]	:	COGENT STOP
+Cog2000 log file Fri Feb 24 14:37:36 2017
+gprim v1.32 Compiled:Feb  5 2013 (GLib DirectDraw v7 DX10.0 Compiled:Feb  5 2013)
+Display:1024x768x32 59.99Hz
+CogInput v1.05 Compiled: May 20 2010
+1	[1]	:	COGENT START
+2121	[2120]	:	Key	71	DOWN	at	2121    
+2201	[80]	:	Key	71	UP	at	2201    
+2866	[665]	:	Key	71	DOWN	at	2866    
+2961	[95]	:	Key	71	UP	at	2961    
+3506	[545]	:	Key	71	DOWN	at	3506    
+3616	[110]	:	Key	71	UP	at	3616    
+5046	[1430]	:	Key	71	DOWN	at	5046    
+5144	[98]	:	Key	71	UP	at	5126    
+5666	[522]	:	Key	71	DOWN	at	5666    
+5795	[129]	:	Key	71	UP	at	5751    
+6066	[271]	:	Key	71	DOWN	at	6066    
+6228	[162]	:	Key	71	UP	at	6161    
+7041	[813]	:	Key	71	DOWN	at	7041    
+7211	[170]	:	Key	71	UP	at	7126    
+7351	[140]	:	Key	71	DOWN	at	7351    
+7546	[195]	:	Key	71	UP	at	7426    
+7602	[56]	:	Key	71	DOWN	at	7602    
+7813	[211]	:	Key	71	UP	at	7672    
+7814	[1]	:	Key	71	DOWN	at	7802    
+7882	[68]	:	Key	71	UP	at	7882    
+8042	[160]	:	Key	29	DOWN	at	8042    
+8330	[288]	:	Key	29	UP	at	8177    
+9087	[757]	:	Key	71	DOWN	at	9087    
+9346	[259]	:	Key	71	UP	at	9167    
+9347	[1]	:	Key	71	DOWN	at	9312    
+9369	[22]	:	Key	71	UP	at	9367    
+9482	[113]	:	Key	71	DOWN	at	9482    
+9763	[281]	:	Key	71	UP	at	9537    
+9764	[1]	:	Key	71	DOWN	at	9632    
+9765	[1]	:	Key	71	UP	at	9697    
+9792	[27]	:	Key	71	DOWN	at	9792    
+10097	[305]	:	Key	71	UP	at	9857    
+10512	[415]	:	Key	71	DOWN	at	10512   
+10763	[251]	:	Key	71	UP	at	10602   
+11762	[999]	:	Key	71	DOWN	at	11762   
+11842	[80]	:	Key	71	UP	at	11842   
+12222	[380]	:	Key	30	DOWN	at	12222   
+13831	[1609]	:	Key	30	UP	at	12327   
+14312	[481]	:	Key	71	DOWN	at	14312   
+14422	[110]	:	Key	71	UP	at	14422   
+14832	[410]	:	Key	71	DOWN	at	14832   
+14948	[116]	:	Key	71	UP	at	14922   
+15232	[284]	:	Key	71	DOWN	at	15232   
+15431	[199]	:	Key	71	UP	at	15287   
+15497	[66]	:	Key	71	DOWN	at	15497   
+15648	[151]	:	Key	71	UP	at	15607   
+15822	[174]	:	Key	71	DOWN	at	15822   
+16030	[208]	:	Key	71	UP	at	15882   
+16122	[92]	:	Key	71	DOWN	at	16122   
+16315	[193]	:	Key	71	UP	at	16181   
+16367	[52]	:	Key	71	DOWN	at	16367   
+16598	[231]	:	Key	71	UP	at	16447   
+16662	[64]	:	Key	71	DOWN	at	16662   
+16932	[270]	:	Key	71	UP	at	16777   
+16977	[45]	:	Key	71	DOWN	at	16977   
+17332	[355]	:	Key	71	UP	at	17082   
+17333	[1]	:	Key	71	DOWN	at	17247   
+17352	[19]	:	Key	71	UP	at	17352   
+17567	[215]	:	Key	71	DOWN	at	17567   
+17882	[315]	:	Key	71	UP	at	17662   
+17942	[60]	:	Key	71	DOWN	at	17942   
+18382	[440]	:	Key	71	UP	at	18072   
+18384	[2]	:	Key	71	DOWN	at	18382   
+18487	[103]	:	Key	71	UP	at	18487   
+18752	[265]	:	Key	71	DOWN	at	18752   
+19149	[397]	:	Key	71	UP	at	18887   
+19150	[1]	:	Key	71	DOWN	at	19087   
+19232	[82]	:	Key	71	UP	at	19232   
+19602	[370]	:	Key	71	DOWN	at	19602   
+19722	[120]	:	Key	71	UP	at	19722   
+20082	[360]	:	Key	71	DOWN	at	20082   
+21283	[1201]	:	Key	71	UP	at	20177   
+22527	[1244]	:	Key	71	DOWN	at	22527   
+22632	[105]	:	Key	71	UP	at	22632   
+22967	[335]	:	Key	71	DOWN	at	22967   
+23050	[83]	:	Key	71	UP	at	23042   
+23297	[247]	:	Key	71	DOWN	at	23297   
+23417	[120]	:	Key	71	UP	at	23367   
+23562	[145]	:	Key	71	DOWN	at	23562   
+23700	[138]	:	Key	71	UP	at	23662   
+24087	[387]	:	Key	71	DOWN	at	24087   
+24250	[163]	:	Key	71	UP	at	24182   
+24362	[112]	:	Key	71	DOWN	at	24362   
+24584	[222]	:	Key	71	UP	at	24457   
+25248	[664]	:	Key	71	DOWN	at	25248   
+25451	[203]	:	Key	71	UP	at	25343   
+25978	[527]	:	Key	71	DOWN	at	25978   
+26302	[324]	:	Key	71	UP	at	26058   
+26843	[541]	:	Key	71	DOWN	at	26843   
+27152	[309]	:	Key	71	UP	at	26923   
+27763	[611]	:	Key	71	DOWN	at	27763   
+28035	[272]	:	Key	71	UP	at	27858   
+28863	[828]	:	Key	71	DOWN	at	28863   
+29270	[407]	:	Key	71	UP	at	28978   
+29808	[538]	:	Key	71	DOWN	at	29808   
+30186	[378]	:	Key	71	UP	at	29903   
+30818	[632]	:	Key	71	DOWN	at	30818   
+30918	[100]	:	Key	71	UP	at	30918   
+32223	[1305]	:	Key	29	DOWN	at	32223   
+33454	[1231]	:	Key	29	UP	at	32343   
+33888	[434]	:	Key	71	DOWN	at	33888   
+33983	[95]	:	Key	71	UP	at	33983   
+34298	[315]	:	Key	71	DOWN	at	34298   
+34404	[106]	:	Key	71	UP	at	34378   
+34783	[379]	:	Key	71	DOWN	at	34783   
+34938	[155]	:	Key	71	UP	at	34938   
+35233	[295]	:	Key	71	DOWN	at	35233   
+35387	[154]	:	Key	71	UP	at	35328   
+35583	[196]	:	Key	71	DOWN	at	35583   
+35737	[154]	:	Key	71	UP	at	35678   
+35928	[191]	:	Key	71	DOWN	at	35928   
+36138	[210]	:	Key	71	UP	at	36038   
+36473	[335]	:	Key	71	DOWN	at	36473   
+36688	[215]	:	Key	71	UP	at	36538   
+36808	[120]	:	Key	71	DOWN	at	36808   
+37071	[263]	:	Key	71	UP	at	36958   
+37298	[227]	:	Key	71	DOWN	at	37298   
+37588	[290]	:	Key	71	UP	at	37423   
+37743	[155]	:	Key	71	DOWN	at	37743   
+38005	[262]	:	Key	71	UP	at	37838   
+38313	[308]	:	Key	71	DOWN	at	38313   
+38722	[409]	:	Key	71	UP	at	38438   
+39138	[416]	:	Key	71	DOWN	at	39138   
+39522	[384]	:	Key	71	UP	at	39233   
+39928	[406]	:	Key	29	DOWN	at	39928   
+40073	[145]	:	Key	29	UP	at	40073   
+41383	[1310]	:	Key	29	DOWN	at	41383   
+42557	[1174]	:	Key	29	UP	at	41488   
+42557	[0]	:	Key	71	DOWN	at	42313   
+42558	[1]	:	Key	71	UP	at	42378   
+43039	[481]	:	Key	71	DOWN	at	43039   
+43124	[85]	:	Key	71	UP	at	43099   
+43394	[270]	:	Key	71	DOWN	at	43394   
+43524	[130]	:	Key	71	UP	at	43449   
+43689	[165]	:	Key	71	DOWN	at	43689   
+43841	[152]	:	Key	71	UP	at	43769   
+43919	[78]	:	Key	71	DOWN	at	43919   
+44074	[155]	:	Key	71	UP	at	43994   
+44089	[15]	:	Key	71	DOWN	at	44089   
+44291	[202]	:	Key	71	UP	at	44199   
+44329	[38]	:	Key	71	DOWN	at	44329   
+44557	[228]	:	Key	71	UP	at	44384   
+44558	[1]	:	Key	71	DOWN	at	44489   
+44569	[11]	:	Key	71	UP	at	44569   
+44659	[90]	:	Key	71	DOWN	at	44659   
+44891	[232]	:	Key	71	UP	at	44719   
+44892	[1]	:	Key	71	DOWN	at	44824   
+44893	[1]	:	Key	71	UP	at	44879   
+44979	[86]	:	Key	71	DOWN	at	44979   
+45258	[279]	:	Key	71	UP	at	45049   
+45259	[1]	:	Key	71	DOWN	at	45179   
+45259	[0]	:	Key	71	UP	at	45209   
+45529	[270]	:	Key	29	DOWN	at	45529   
+45841	[312]	:	Key	29	UP	at	45624   
+46634	[793]	:	Key	71	DOWN	at	46634   
+46958	[324]	:	Key	71	UP	at	46704   
+46959	[1]	:	Key	71	DOWN	at	46919   
+46984	[25]	:	Key	71	UP	at	46984   
+47184	[200]	:	Key	71	DOWN	at	47184   
+47525	[341]	:	Key	71	UP	at	47239   
+47674	[149]	:	Key	71	DOWN	at	47674   
+48025	[351]	:	Key	71	UP	at	47759   
+48134	[109]	:	Key	71	DOWN	at	48134   
+48274	[140]	:	Key	71	UP	at	48274   
+50614	[2340]	:	Key	33	DOWN	at	50614   
+51801	[1187]	:	COGENT STOP

@@ -1,0 +1,8 @@
+171208_1442	1	globals	Period	NumPeriods	RepeatTreatment	
+171208_1442	1	globals	1	1	0	
+171208_1442	1	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	
+171208_1442	1	subjects	1	1	1	0	0	1	
+171208_1442	1	summary	Period	
+171208_1442	1	summary	1	
+171208_1442	1	session	Subject	FinalProfit	ShowUpFee	ShowUpFeeInvested	MoneyAdded	MoneyToPay	MoneyEarned	
+171208_1442	1	session	1	0	0	0	0	0	0	

@@ -1,0 +1,927 @@
+Cog2000 log file Tue Nov 22 14:05:13 2016
+gprim v1.32 Compiled:Feb  5 2013 (GLib DirectDraw v7 DX10.0 Compiled:Feb  5 2013)
+Display:1024x768x32 59.95Hz
+CogInput v1.05 Compiled: May 20 2010
+0	[0]	:	COGENT START
+5290	[5290]	:	Key	71	DOWN	at	5290    
+6295	[1005]	:	6292
+6298	[3]	:	1
+6303	[5]	:	trial 1.00 p: 0.70
+6319	[16]	:	1  1  1  2  1  2  2  1  1  1
+9350	[3031]	:	blue urn sequence, blue ball drawn
+15384	[6034]	:	subjects latest response 0.00 with RT -11877.00
+15392	[8]	:	the subject did not provide a correct response
+19914	[4522]	:	trial 2.00 p: 0.70
+19916	[2]	:	2  2  1  1  1  1  1  2  1  1
+22930	[3014]	:	blue urn sequence, green ball drawn
+28967	[6037]	:	subjects latest response 0.00 with RT -25465.00
+28969	[2]	:	the subject did not provide a correct response
+33483	[4514]	:	trial 3.00 p: 0.70
+33484	[1]	:	1  1  2  2  1  2  1  1  1  1
+36501	[3017]	:	blue urn sequence, blue ball drawn
+42537	[6036]	:	subjects latest response 0.00 with RT -39036.00
+42539	[2]	:	the subject did not provide a correct response
+47055	[4516]	:	trial 4.00 p: 0.70
+47057	[2]	:	1  2  1  1  2  1  2  1  1  1
+50072	[3015]	:	green urn sequence, green ball drawn
+56108	[6036]	:	subjects latest response 3.00 with RT 1212.00
+56110	[2]	:	the subject did not provide a correct response
+60627	[4517]	:	trial 5.00 p: 0.70
+60628	[1]	:	1  2  2  1  1  1  1  2  1  1
+63642	[3014]	:	green urn sequence, green ball drawn
+69679	[6037]	:	subjects latest response 30.00 with RT -6963.00
+69681	[2]	:	subject chose draw again
+69684	[3]	:	green urn sequence, blue ball drawn
+77344	[7660]	:	COGENT STOP
+Cog2000 log file Tue Nov 22 14:15:00 2016
+gprim v1.32 Compiled:Feb  5 2013 (GLib DirectDraw v7 DX10.0 Compiled:Feb  5 2013)
+Display:1280x1024x32 59.95Hz
+CogInput v1.05 Compiled: May 20 2010
+1	[1]	:	COGENT START
+54293	[54292]	:	Key	19	DOWN	at	54293   
+54333	[40]	:	Key	19	UP	at	54333   
+54358	[25]	:	Key	20	DOWN	at	54358   
+54424	[66]	:	Key	20	UP	at	54424   
+55194	[770]	:	Key	15	DOWN	at	55194   
+55239	[45]	:	Key	16	DOWN	at	55239   
+55294	[55]	:	Key	15	UP	at	55294   
+55344	[50]	:	Key	16	UP	at	55344   
+56114	[770]	:	Key	69	DOWN	at	56114   
+56314	[200]	:	Key	53	DOWN	at	56314   
+56429	[115]	:	Key	69	UP	at	56429   
+56434	[5]	:	Key	53	UP	at	56434   
+57189	[755]	:	Key	3	DOWN	at	57189   
+57254	[65]	:	Key	3	UP	at	57254   
+57294	[40]	:	Key	15	DOWN	at	57294   
+57374	[80]	:	Key	15	UP	at	57374   
+57559	[185]	:	Key	7	DOWN	at	57559   
+57614	[55]	:	Key	7	UP	at	57614   
+57689	[75]	:	Key	5	DOWN	at	57689   
+57749	[60]	:	Key	5	UP	at	57749   
+57784	[35]	:	Key	14	DOWN	at	57784   
+57849	[65]	:	Key	14	UP	at	57849   
+57949	[100]	:	Key	20	DOWN	at	57949   
+58009	[60]	:	Key	20	UP	at	58009   
+58815	[806]	:	Key	59	DOWN	at	58814   
+58864	[49]	:	Key	59	UP	at	58864   
+64304	[5440]	:	Key	19	DOWN	at	64304   
+64369	[65]	:	Key	19	UP	at	64369   
+64789	[420]	:	Key	20	DOWN	at	64789   
+64828	[39]	:	Key	20	UP	at	64828   
+65609	[781]	:	Key	15	DOWN	at	65609   
+65649	[40]	:	Key	16	DOWN	at	65649   
+65689	[40]	:	Key	15	UP	at	65689   
+65749	[60]	:	Key	16	UP	at	65749   
+66334	[585]	:	Key	56	DOWN	at	66334   
+66389	[55]	:	Key	56	UP	at	66389   
+69999	[3610]	:	Key	55	DOWN	at	69999   
+70614	[615]	:	Key	55	UP	at	70614   
+71631	[1017]	:	Key	60	DOWN	at	71631   
+79044	[7413]	:	COGENT STOP
+Cog2000 log file Tue Nov 22 15:11:00 2016
+gprim v1.32 Compiled:Feb  5 2013 (GLib DirectDraw v7 DX10.0 Compiled:Feb  5 2013)
+Display:1280x1024x32 59.95Hz
+CogInput v1.05 Compiled: May 20 2010
+1	[1]	:	COGENT START
+4280	[4279]	:	Key	71	DOWN	at	4280    
+4400	[120]	:	Key	71	UP	at	4400    
+9875	[5475]	:	Key	35	DOWN	at	9875    
+13455	[3580]	:	Key	32	DOWN	at	13455   
+15810	[2355]	:	Key	30	DOWN	at	15810   
+19161	[3351]	:	Key	30	DOWN	at	19161   
+23411	[4250]	:	Key	28	DOWN	at	23411   
+25506	[2095]	:	Key	28	DOWN	at	25506   
+28536	[3030]	:	Key	31	DOWN	at	28536   
+32106	[3570]	:	Key	30	DOWN	at	32106   
+36457	[4351]	:	Key	29	DOWN	at	36457   
+38347	[1890]	:	Key	28	DOWN	at	38347   
+42657	[4310]	:	Key	32	DOWN	at	42657   
+44817	[2160]	:	Key	32	DOWN	at	44817   
+47747	[2930]	:	Key	29	DOWN	at	47747   
+50817	[3070]	:	Key	28	DOWN	at	50817   
+53898	[3081]	:	Key	29	DOWN	at	53898   
+58368	[4470]	:	Key	29	DOWN	at	58368   
+60913	[2545]	:	Key	31	DOWN	at	60913   
+62969	[2056]	:	Key	29	DOWN	at	62969   
+64879	[1910]	:	Key	33	DOWN	at	64879   
+67719	[2840]	:	Key	31	DOWN	at	67719   
+69835	[2116]	:	Key	32	DOWN	at	69835   
+74250	[4415]	:	Key	31	DOWN	at	74250   
+76680	[2430]	:	Key	31	DOWN	at	76680   
+79055	[2375]	:	Key	33	DOWN	at	79055   
+82195	[3140]	:	Key	32	DOWN	at	82195   
+84265	[2070]	:	Key	30	DOWN	at	84265   
+89226	[4961]	:	Key	29	DOWN	at	89226   
+92041	[2815]	:	Key	33	DOWN	at	92041   
+94426	[2385]	:	Key	35	DOWN	at	94426   
+96911	[2485]	:	Key	30	DOWN	at	96911   
+99771	[2860]	:	Key	31	DOWN	at	99771   
+102826	[3055]	:	Key	30	DOWN	at	102826  
+104657	[1831]	:	Key	29	DOWN	at	104657  
+110114	[5457]	:	Key	31	DOWN	at	110114  
+112329	[2215]	:	Key	29	DOWN	at	112329  
+114699	[2370]	:	Key	29	DOWN	at	114699  
+116794	[2095]	:	Key	28	DOWN	at	116794  
+122035	[5241]	:	Key	31	DOWN	at	122035  
+124515	[2480]	:	Key	31	DOWN	at	124515  
+126655	[2140]	:	Key	32	DOWN	at	126655  
+129130	[2475]	:	Key	32	DOWN	at	129130  
+132995	[3865]	:	Key	30	DOWN	at	132995  
+137905	[4910]	:	Key	32	DOWN	at	137905  
+141571	[3666]	:	Key	30	DOWN	at	141571  
+143551	[1980]	:	Key	30	DOWN	at	143551  
+146026	[2475]	:	Key	32	DOWN	at	146026  
+148200	[2174]	:	Key	33	DOWN	at	148200  
+152835	[4635]	:	Key	32	DOWN	at	152835  
+155070	[2235]	:	Key	34	DOWN	at	155070  
+157136	[2066]	:	Key	33	DOWN	at	157136  
+159051	[1915]	:	Key	30	DOWN	at	159051  
+161491	[2440]	:	Key	30	DOWN	at	161491  
+163451	[1960]	:	Key	29	DOWN	at	163451  
+166561	[3110]	:	Key	34	DOWN	at	166561  
+168711	[2150]	:	Key	33	DOWN	at	168711  
+170991	[2280]	:	Key	31	DOWN	at	170991  
+173641	[2650]	:	Key	31	DOWN	at	173641  
+182457	[8816]	:	Key	29	DOWN	at	182457  
+185377	[2920]	:	Key	33	DOWN	at	185377  
+187922	[2545]	:	Key	32	DOWN	at	187922  
+190182	[2260]	:	Key	30	DOWN	at	190182  
+193848	[3666]	:	Key	33	DOWN	at	193848  
+196273	[2425]	:	Key	33	DOWN	at	196273  
+198738	[2465]	:	Key	28	DOWN	at	198738  
+201178	[2440]	:	Key	30	DOWN	at	201178  
+209619	[8441]	:	Key	31	DOWN	at	209619  
+213919	[4300]	:	Key	31	DOWN	at	213919  
+216449	[2530]	:	Key	35	DOWN	at	216449  
+219794	[3345]	:	Key	31	DOWN	at	219794  
+222184	[2390]	:	Key	31	DOWN	at	222184  
+224338	[2154]	:	Key	30	DOWN	at	224338  
+226779	[2441]	:	Key	32	DOWN	at	226779  
+229679	[2900]	:	Key	34	DOWN	at	229679  
+235419	[5740]	:	Key	28	DOWN	at	235419  
+238944	[3525]	:	Key	35	DOWN	at	238944  
+246120	[7176]	:	Key	33	DOWN	at	246120  
+248315	[2195]	:	Key	30	DOWN	at	248315  
+250155	[1840]	:	Key	29	DOWN	at	250155  
+252136	[1981]	:	Key	29	DOWN	at	252136  
+255431	[3295]	:	Key	30	DOWN	at	255431  
+257961	[2530]	:	Key	33	DOWN	at	257961  
+261146	[3185]	:	Key	30	DOWN	at	261146  
+269137	[7991]	:	Key	34	DOWN	at	269137  
+271522	[2385]	:	Key	31	DOWN	at	271522  
+273647	[2125]	:	Key	35	DOWN	at	273647  
+276952	[3305]	:	Key	30	DOWN	at	276952  
+279423	[2471]	:	Key	32	DOWN	at	279423  
+282168	[2745]	:	Key	33	DOWN	at	282168  
+287848	[5680]	:	Key	34	DOWN	at	287848  
+291923	[4075]	:	Key	33	DOWN	at	291923  
+292516	[593]	:	COGENT STOP
+Cog2000 log file Tue Nov 22 15:16:30 2016
+gprim v1.32 Compiled:Feb  5 2013 (GLib DirectDraw v7 DX10.0 Compiled:Feb  5 2013)
+Display:1280x1024x32 59.99Hz
+CogInput v1.05 Compiled: May 20 2010
+0	[0]	:	COGENT START
+7541	[7541]	:	Key	71	DOWN	at	7541    
+7616	[75]	:	Key	71	UP	at	7616    
+14086	[6470]	:	Key	35	DOWN	at	14086   
+17057	[2971]	:	Key	30	DOWN	at	17057   
+18903	[1846]	:	Key	29	DOWN	at	18903   
+25143	[6240]	:	Key	31	DOWN	at	25143   
+26893	[1750]	:	Key	31	DOWN	at	26893   
+28158	[1265]	:	Key	31	DOWN	at	28158   
+30568	[2410]	:	Key	30	DOWN	at	30568   
+35593	[5025]	:	Key	33	DOWN	at	35593   
+39849	[4256]	:	Key	30	DOWN	at	39849   
+45544	[5695]	:	Key	31	DOWN	at	45544   
+52519	[6975]	:	Key	31	DOWN	at	52519   
+56480	[3961]	:	Key	30	DOWN	at	56480   
+59425	[2945]	:	Key	29	DOWN	at	59425   
+64720	[5295]	:	Key	33	DOWN	at	64720   
+68485	[3765]	:	Key	32	DOWN	at	68485   
+77911	[9426]	:	Key	30	DOWN	at	77911   
+80806	[2895]	:	Key	32	DOWN	at	80806   
+85081	[4275]	:	Key	31	DOWN	at	85081   
+89167	[4086]	:	Key	29	DOWN	at	89167   
+96437	[7270]	:	Key	31	DOWN	at	96437   
+98557	[2120]	:	Key	29	DOWN	at	98557   
+100327	[1770]	:	Key	30	DOWN	at	100327  
+102432	[2105]	:	Key	29	DOWN	at	102432  
+104552	[2120]	:	Key	29	DOWN	at	104552  
+107558	[3006]	:	Key	35	DOWN	at	107558  
+113463	[5905]	:	Key	31	DOWN	at	113463  
+116023	[2560]	:	Key	30	DOWN	at	116023  
+121238	[5215]	:	Key	35	DOWN	at	121238  
+125289	[4051]	:	Key	34	DOWN	at	125289  
+129609	[4320]	:	Key	30	DOWN	at	129609  
+132549	[2940]	:	Key	34	DOWN	at	132549  
+135254	[2705]	:	Key	33	DOWN	at	135254  
+138029	[2775]	:	Key	31	DOWN	at	138029  
+140254	[2225]	:	Key	31	DOWN	at	140254  
+142610	[2356]	:	Key	29	DOWN	at	142610  
+147825	[5215]	:	Key	30	DOWN	at	147825  
+151005	[3180]	:	Key	32	DOWN	at	151005  
+153065	[2060]	:	Key	33	DOWN	at	153065  
+158946	[5881]	:	Key	32	DOWN	at	158946  
+164976	[6030]	:	Key	34	DOWN	at	164976  
+178857	[13881]	:	Key	29	DOWN	at	178857  
+184257	[5400]	:	Key	35	DOWN	at	184257  
+189032	[4775]	:	Key	31	DOWN	at	189032  
+192087	[3055]	:	Key	30	DOWN	at	192087  
+197008	[4921]	:	Key	32	DOWN	at	197008  
+198838	[1830]	:	Key	30	DOWN	at	198838  
+201933	[3095]	:	Key	32	DOWN	at	201933  
+204358	[2425]	:	Key	35	DOWN	at	204358  
+211624	[7266]	:	Key	31	DOWN	at	211624  
+216334	[4710]	:	Key	29	DOWN	at	216334  
+218829	[2495]	:	Key	29	DOWN	at	218829  
+224304	[5475]	:	Key	34	DOWN	at	224304  
+226759	[2455]	:	Key	34	DOWN	at	226759  
+229015	[2256]	:	Key	32	DOWN	at	229015  
+230975	[1960]	:	Key	32	DOWN	at	230975  
+236510	[5535]	:	Key	34	DOWN	at	236510  
+238945	[2435]	:	Key	31	DOWN	at	238945  
+241640	[2695]	:	Key	33	DOWN	at	241640  
+244015	[2375]	:	Key	34	DOWN	at	244015  
+246936	[2921]	:	Key	34	DOWN	at	246936  
+250166	[3230]	:	Key	32	DOWN	at	250166  
+254246	[4080]	:	Key	28	DOWN	at	254246  
+255541	[1295]	:	Key	28	DOWN	at	255541  
+258071	[2530]	:	Key	33	DOWN	at	258071  
+260151	[2080]	:	Key	34	DOWN	at	260151  
+264177	[4026]	:	Key	32	DOWN	at	264177  
+274137	[9960]	:	Key	32	DOWN	at	274137  
+278712	[4575]	:	Key	32	DOWN	at	278712  
+281463	[2751]	:	Key	31	DOWN	at	281463  
+283414	[1951]	:	Key	31	DOWN	at	283414  
+285414	[2000]	:	Key	29	DOWN	at	285414  
+288489	[3075]	:	Key	34	DOWN	at	288489  
+291569	[3080]	:	Key	30	DOWN	at	291569  
+295214	[3645]	:	Key	32	DOWN	at	295214  
+297814	[2600]	:	Key	30	DOWN	at	297814  
+299360	[1546]	:	Key	30	DOWN	at	299360  
+301865	[2505]	:	Key	34	DOWN	at	301865  
+305205	[3340]	:	Key	30	DOWN	at	305205  
+307925	[2720]	:	Key	31	DOWN	at	307925  
+310905	[2980]	:	Key	35	DOWN	at	310905  
+313695	[2790]	:	Key	32	DOWN	at	313695  
+316231	[2536]	:	Key	34	DOWN	at	316231  
+320741	[4510]	:	Key	33	DOWN	at	320741  
+323631	[2890]	:	Key	28	DOWN	at	323631  
+326341	[2710]	:	Key	31	DOWN	at	326341  
+333336	[6995]	:	Key	33	DOWN	at	333336  
+335967	[2631]	:	Key	30	DOWN	at	335967  
+338887	[2920]	:	Key	31	DOWN	at	338887  
+343742	[4855]	:	Key	31	DOWN	at	343742  
+346072	[2330]	:	Key	28	DOWN	at	346072  
+346589	[517]	:	COGENT STOP
+Cog2000 log file Tue Nov 22 15:22:38 2016
+gprim v1.32 Compiled:Feb  5 2013 (GLib DirectDraw v7 DX10.0 Compiled:Feb  5 2013)
+Display:1280x1024x32 59.99Hz
+CogInput v1.05 Compiled: May 20 2010
+1	[1]	:	COGENT START
+2192	[2191]	:	Key	71	DOWN	at	2192    
+2262	[70]	:	Key	71	UP	at	2262    
+5957	[3695]	:	Key	30	DOWN	at	5957    
+10407	[4450]	:	Key	29	DOWN	at	10407   
+12247	[1840]	:	Key	28	DOWN	at	12247   
+15557	[3310]	:	Key	31	DOWN	at	15557   
+17757	[2200]	:	Key	30	DOWN	at	17757   
+23908	[6151]	:	Key	35	DOWN	at	23908   
+27213	[3305]	:	Key	36	DOWN	at	27213   
+33943	[6730]	:	Key	29	DOWN	at	33943   
+35829	[1886]	:	Key	30	DOWN	at	35829   
+38359	[2530]	:	Key	30	DOWN	at	38359   
+44214	[5855]	:	Key	32	DOWN	at	44214   
+46484	[2270]	:	Key	33	DOWN	at	46484   
+48574	[2090]	:	Key	29	DOWN	at	48574   
+52805	[4231]	:	Key	33	DOWN	at	52805   
+55100	[2295]	:	Key	33	DOWN	at	55100   
+57200	[2100]	:	Key	31	DOWN	at	57200   
+62830	[5630]	:	Key	31	DOWN	at	62830   
+65405	[2575]	:	Key	32	DOWN	at	65405   
+68140	[2735]	:	Key	30	DOWN	at	68140   
+87782	[19642]	:	Key	36	DOWN	at	87782   
+92632	[4850]	:	Key	28	DOWN	at	92632   
+96787	[4155]	:	Key	35	DOWN	at	96787   
+99582	[2795]	:	Key	35	DOWN	at	99582   
+101892	[2310]	:	Key	32	DOWN	at	101892  
+103972	[2080]	:	Key	33	DOWN	at	103972  
+107823	[3851]	:	Key	34	DOWN	at	107823  
+109918	[2095]	:	Key	35	DOWN	at	109918  
+115623	[5705]	:	Key	30	DOWN	at	115623  
+126039	[10416]	:	Key	33	DOWN	at	126039  
+127999	[1960]	:	Key	28	DOWN	at	127999  
+130339	[2340]	:	Key	33	DOWN	at	130339  
+132819	[2480]	:	Key	30	DOWN	at	132819  
+134779	[1960]	:	Key	29	DOWN	at	134779  
+137389	[2610]	:	Key	35	DOWN	at	137389  
+139429	[2040]	:	Key	33	DOWN	at	139429  
+142390	[2961]	:	Key	31	DOWN	at	142390  
+145150	[2760]	:	Key	30	DOWN	at	145150  
+147070	[1920]	:	Key	29	DOWN	at	147070  
+149460	[2390]	:	Key	32	DOWN	at	149460  
+151765	[2305]	:	Key	30	DOWN	at	151765  
+157155	[5390]	:	Key	35	DOWN	at	157155  
+160231	[3076]	:	Key	34	DOWN	at	160231  
+162476	[2245]	:	Key	31	DOWN	at	162476  
+168101	[5625]	:	Key	32	DOWN	at	168101  
+172542	[4441]	:	Key	28	DOWN	at	172542  
+174182	[1640]	:	Key	28	DOWN	at	174182  
+180191	[6009]	:	Key	29	DOWN	at	180191  
+184396	[4205]	:	Key	34	DOWN	at	184396  
+186886	[2490]	:	Key	30	DOWN	at	186886  
+189446	[2560]	:	Key	32	DOWN	at	189446  
+196047	[6601]	:	Key	31	DOWN	at	196047  
+198117	[2070]	:	Key	33	DOWN	at	198117  
+200077	[1960]	:	Key	32	DOWN	at	200077  
+202284	[2207]	:	Key	30	DOWN	at	202284  
+204999	[2715]	:	Key	33	DOWN	at	204999  
+207109	[2110]	:	Key	31	DOWN	at	207109  
+209829	[2720]	:	Key	30	DOWN	at	209829  
+211855	[2026]	:	Key	29	DOWN	at	211855  
+213525	[1670]	:	Key	29	DOWN	at	213525  
+215615	[2090]	:	Key	30	DOWN	at	215615  
+217720	[2105]	:	Key	29	DOWN	at	217720  
+220085	[2365]	:	Key	32	DOWN	at	220085  
+223180	[3095]	:	Key	32	DOWN	at	223180  
+229551	[6371]	:	Key	35	DOWN	at	229551  
+232326	[2775]	:	Key	32	DOWN	at	232326  
+236111	[3785]	:	Key	30	DOWN	at	236111  
+237676	[1565]	:	Key	29	DOWN	at	237676  
+240351	[2675]	:	Key	34	DOWN	at	240351  
+244716	[4365]	:	Key	31	DOWN	at	244716  
+247062	[2346]	:	Key	31	DOWN	at	247062  
+249062	[2000]	:	Key	31	DOWN	at	249062  
+252182	[3120]	:	Key	30	DOWN	at	252182  
+254687	[2505]	:	Key	32	DOWN	at	254687  
+257916	[3229]	:	Key	34	DOWN	at	257916  
+261367	[3451]	:	Key	33	DOWN	at	261367  
+263733	[2366]	:	Key	32	DOWN	at	263733  
+268623	[4890]	:	Key	35	DOWN	at	268623  
+277558	[8935]	:	Key	32	DOWN	at	277558  
+280454	[2896]	:	Key	34	DOWN	at	280454  
+282614	[2160]	:	Key	32	DOWN	at	282614  
+284084	[1470]	:	Key	32	DOWN	at	284084  
+285664	[1580]	:	Key	31	DOWN	at	285664  
+287469	[1805]	:	Key	31	DOWN	at	287469  
+289389	[1920]	:	Key	32	DOWN	at	289389  
+291774	[2385]	:	Key	31	DOWN	at	291774  
+293799	[2025]	:	Key	30	DOWN	at	293799  
+296499	[2700]	:	Key	33	DOWN	at	296499  
+298415	[1916]	:	Key	34	DOWN	at	298415  
+300460	[2045]	:	Key	32	DOWN	at	300460  
+305165	[4705]	:	Key	32	DOWN	at	305165  
+305782	[617]	:	COGENT STOP
+Cog2000 log file Tue Nov 22 15:28:06 2016
+gprim v1.32 Compiled:Feb  5 2013 (GLib DirectDraw v7 DX10.0 Compiled:Feb  5 2013)
+Display:1024x768x32 60.02Hz
+CogInput v1.05 Compiled: May 20 2010
+0	[0]	:	COGENT START
+15796	[15796]	:	Key	71	DOWN	at	15796   
+15916	[120]	:	Key	71	UP	at	15916   
+43378	[27462]	:	Key	27	DOWN	at	43378   
+43438	[60]	:	Key	27	UP	at	43438   
+54428	[10990]	:	Key	35	DOWN	at	54428   
+54483	[55]	:	Key	35	UP	at	54483   
+61899	[7416]	:	Key	33	DOWN	at	61899   
+61974	[75]	:	Key	33	UP	at	61974   
+82060	[20086]	:	Key	34	DOWN	at	82060   
+82130	[70]	:	Key	34	UP	at	82130   
+105401	[23271]	:	Key	30	DOWN	at	105401  
+105541	[140]	:	Key	30	UP	at	105541  
+139588	[34047]	:	Key	30	DOWN	at	139588  
+140595	[1007]	:	COGENT STOP
+Cog2000 log file Tue Nov 22 15:31:55 2016
+gprim v1.32 Compiled:Feb  5 2013 (GLib DirectDraw v7 DX10.0 Compiled:Feb  5 2013)
+Display:1024x768x32 59.99Hz
+CogInput v1.05 Compiled: May 20 2010
+0	[0]	:	COGENT START
+102351	[102351]	:	Key	71	DOWN	at	102351  
+102431	[80]	:	Key	71	UP	at	102431  
+108492	[6061]	:	Key	71	DOWN	at	108492  
+108532	[40]	:	Key	71	UP	at	108532  
+109822	[1290]	:	Key	71	DOWN	at	109822  
+109887	[65]	:	Key	71	UP	at	109887  
+130013	[20126]	:	Key	60	DOWN	at	130013  
+130598	[585]	:	Key	60	UP	at	130598  
+142108	[11510]	:	Key	60	DOWN	at	142108  
+142538	[430]	:	Key	3	DOWN	at	142538  
+142773	[235]	:	Key	3	UP	at	142773  
+142933	[160]	:	Key	60	UP	at	142933  
+162295	[19362]	:	Key	3	DOWN	at	162295  
+162380	[85]	:	Key	3	UP	at	162380  
+164655	[2275]	:	Key	19	DOWN	at	164655  
+164745	[90]	:	Key	19	UP	at	164735  
+172417	[7672]	:	COGENT STOP
+Cog2000 log file Tue Nov 22 15:44:32 2016
+gprim v1.32 Compiled:Feb  5 2013 (GLib DirectDraw v7 DX10.0 Compiled:Feb  5 2013)
+Display:1024x768x32 59.99Hz
+CogInput v1.05 Compiled: May 20 2010
+2	[2]	:	COGENT START
+117872	[117870]	:	Key	71	DOWN	at	117872  
+118886	[1014]	:	118883
+118888	[2]	:	0
+118893	[5]	:	trial 1.00 p: 0.70
+118911	[18]	:	1  1  1  2  2  2  1  1  1  1
+121931	[3020]	:	green urn sequence, green ball drawn
+127974	[6043]	:	subjects latest response 0.00 with RT -124465.00
+127980	[6]	:	the subject did not provide a correct response
+132499	[4519]	:	trial 2.00 p: 0.70
+132500	[1]	:	2  1  1  1  2  1  1  2  1  1
+135518	[3018]	:	blue urn sequence, green ball drawn
+141554	[6036]	:	subjects latest response 29.00 with RT 1417.00
+141557	[3]	:	the subject did not provide a correct response
+146072	[4515]	:	trial 3.00 p: 0.70
+146074	[2]	:	2  1  2  1  2  1  1  1  1  1
+149088	[3014]	:	blue urn sequence, green ball drawn
+155124	[6036]	:	subjects latest response 29.00 with RT 791.00
+155126	[2]	:	the subject did not provide a correct response
+159642	[4516]	:	trial 4.00 p: 0.70
+159644	[2]	:	1  1  1  1  2  2  2  1  1  1
+162659	[3015]	:	green urn sequence, green ball drawn
+168695	[6036]	:	subjects latest response 28.00 with RT 1651.00
+168697	[2]	:	the subject did not provide a correct response
+173213	[4516]	:	trial 5.00 p: 0.70
+173215	[2]	:	1  1  2  1  2  1  2  1  1  1
+176229	[3014]	:	blue urn sequence, blue ball drawn
+182266	[6037]	:	subjects latest response 30.00 with RT 2616.00
+182268	[2]	:	subject chose draw again
+182271	[3]	:	blue urn sequence, blue ball drawn
+188301	[6030]	:	subjects latest response 30.00 with RT 2271.00
+188303	[2]	:	subject chose draw again
+188305	[2]	:	blue urn sequence, green ball drawn
+194335	[6030]	:	subjects latest response 30.00 with RT 1681.00
+194336	[1]	:	subject chose draw again
+194336	[0]	:	blue urn sequence, blue ball drawn
+200372	[6036]	:	subjects latest response 28.00 with RT 3191.00
+200374	[2]	:	subject correctly chose blue
+204889	[4515]	:	trial 6.00 p: 0.70
+204891	[2]	:	1  2  2  1  1  1  1  1  1  2
+207906	[3015]	:	green urn sequence, green ball drawn
+213942	[6036]	:	subjects latest response 30.00 with RT 652.00
+213944	[2]	:	subject chose draw again
+213946	[2]	:	green urn sequence, blue ball drawn
+219978	[6032]	:	subjects latest response 30.00 with RT 611.00
+219980	[2]	:	subject chose draw again
+219981	[1]	:	green urn sequence, blue ball drawn
+226013	[6032]	:	subjects latest response 30.00 with RT 592.00
+226015	[2]	:	subject chose draw again
+226017	[2]	:	green urn sequence, green ball drawn
+232049	[6032]	:	subjects latest response 30.00 with RT 382.00
+232051	[2]	:	subject chose draw again
+232053	[2]	:	green urn sequence, green ball drawn
+238083	[6030]	:	subjects latest response 29.00 with RT 482.00
+238084	[1]	:	subject correctly chose green
+242602	[4518]	:	trial 7.00 p: 0.70
+242603	[1]	:	1  1  2  1  1  2  2  1  1  1
+245618	[3015]	:	green urn sequence, green ball drawn
+251654	[6036]	:	subjects latest response 30.00 with RT 957.00
+251656	[2]	:	subject chose draw again
+251658	[2]	:	green urn sequence, green ball drawn
+257689	[6031]	:	subjects latest response 29.00 with RT 1202.00
+257690	[1]	:	subject correctly chose green
+262207	[4517]	:	trial 8.00 p: 0.70
+262209	[2]	:	1  2  2  1  1  2  1  1  1  1
+265224	[3015]	:	green urn sequence, green ball drawn
+271261	[6037]	:	subjects latest response 30.00 with RT 487.00
+271263	[2]	:	subject chose draw again
+271265	[2]	:	green urn sequence, blue ball drawn
+277295	[6030]	:	subjects latest response 30.00 with RT 467.00
+277297	[2]	:	subject chose draw again
+277299	[2]	:	green urn sequence, blue ball drawn
+283330	[6031]	:	subjects latest response 28.00 with RT 833.00
+283332	[2]	:	the subject did not provide a correct response
+287849	[4517]	:	trial 9.00 p: 0.70
+287851	[2]	:	1  1  1  2  1  1  1  2  2  1
+290866	[3015]	:	green urn sequence, green ball drawn
+296901	[6035]	:	subjects latest response 30.00 with RT 397.00
+296903	[2]	:	subject chose draw again
+296905	[2]	:	green urn sequence, green ball drawn
+302937	[6032]	:	subjects latest response 30.00 with RT 417.00
+302939	[2]	:	subject chose draw again
+302941	[2]	:	green urn sequence, green ball drawn
+308972	[6031]	:	subjects latest response 29.00 with RT 487.00
+308974	[2]	:	subject correctly chose green
+313490	[4516]	:	trial 10.00 p: 0.70
+313492	[2]	:	1  1  1  1  2  1  2  2  1  1
+316507	[3015]	:	blue urn sequence, blue ball drawn
+322543	[6036]	:	subjects latest response 30.00 with RT 422.00
+322555	[12]	:	subject chose draw again
+322556	[1]	:	blue urn sequence, blue ball drawn
+328595	[6039]	:	subjects latest response 28.00 with RT 555.00
+328597	[2]	:	subject correctly chose blue
+333113	[4516]	:	trial 11.00 p: 0.70
+333115	[2]	:	1  1  1  1  2  1  1  2  2  1
+336130	[3015]	:	green urn sequence, green ball drawn
+342166	[6036]	:	subjects latest response 30.00 with RT 445.00
+342168	[2]	:	subject chose draw again
+342170	[2]	:	green urn sequence, green ball drawn
+348201	[6031]	:	subjects latest response 30.00 with RT 900.00
+348203	[2]	:	subject chose draw again
+348205	[2]	:	green urn sequence, green ball drawn
+354237	[6032]	:	subjects latest response 29.00 with RT 455.00
+354239	[2]	:	subject correctly chose green
+358755	[4516]	:	trial 12.00 p: 0.70
+358757	[2]	:	2  2  1  1  1  1  1  1  2  1
+361771	[3014]	:	blue urn sequence, green ball drawn
+367807	[6036]	:	subjects latest response 30.00 with RT 740.00
+367809	[2]	:	subject chose draw again
+367811	[2]	:	blue urn sequence, green ball drawn
+373843	[6032]	:	subjects latest response 30.00 with RT 475.00
+373845	[2]	:	subject chose draw again
+373847	[2]	:	blue urn sequence, blue ball drawn
+379878	[6031]	:	subjects latest response 30.00 with RT 440.00
+379880	[2]	:	subject chose draw again
+379881	[1]	:	blue urn sequence, blue ball drawn
+385912	[6031]	:	subjects latest response 30.00 with RT 406.00
+385913	[1]	:	subject chose draw again
+385913	[0]	:	blue urn sequence, blue ball drawn
+391947	[6034]	:	subjects latest response 28.00 with RT 471.00
+391948	[1]	:	subject correctly chose blue
+396466	[4518]	:	trial 13.00 p: 0.70
+396468	[2]	:	1  1  1  1  2  1  2  2  1  1
+399483	[3015]	:	green urn sequence, green ball drawn
+405519	[6036]	:	subjects latest response 30.00 with RT 286.00
+405521	[2]	:	subject chose draw again
+405523	[2]	:	green urn sequence, green ball drawn
+411554	[6031]	:	subjects latest response 30.00 with RT 456.00
+411556	[2]	:	subject chose draw again
+411558	[2]	:	green urn sequence, green ball drawn
+417589	[6031]	:	subjects latest response 29.00 with RT 501.00
+417591	[2]	:	subject correctly chose green
+422107	[4516]	:	trial 14.00 p: 0.70
+422109	[2]	:	1  1  1  2  1  2  1  1  2  1
+425125	[3016]	:	blue urn sequence, blue ball drawn
+431160	[6035]	:	subjects latest response 30.00 with RT 371.00
+431162	[2]	:	subject chose draw again
+431164	[2]	:	blue urn sequence, blue ball drawn
+437195	[6031]	:	subjects latest response 30.00 with RT 271.00
+437197	[2]	:	subject chose draw again
+437199	[2]	:	blue urn sequence, blue ball drawn
+443231	[6032]	:	subjects latest response 28.00 with RT 341.00
+443233	[2]	:	subject correctly chose blue
+447749	[4516]	:	trial 15.00 p: 0.70
+447751	[2]	:	1  1  2  1  1  1  1  2  1  2
+450766	[3015]	:	blue urn sequence, blue ball drawn
+456801	[6035]	:	subjects latest response 30.00 with RT 301.00
+456803	[2]	:	subject chose draw again
+456805	[2]	:	blue urn sequence, blue ball drawn
+462837	[6032]	:	subjects latest response 30.00 with RT 311.00
+462839	[2]	:	subject chose draw again
+462841	[2]	:	blue urn sequence, green ball drawn
+468872	[6031]	:	subjects latest response 30.00 with RT 396.00
+468874	[2]	:	subject chose draw again
+468876	[2]	:	blue urn sequence, blue ball drawn
+474907	[6031]	:	subjects latest response 28.00 with RT 1081.00
+474909	[2]	:	subject correctly chose blue
+479426	[4517]	:	trial 16.00 p: 0.70
+479428	[2]	:	2  2  1  1  1  1  1  1  1  2
+482443	[3015]	:	green urn sequence, blue ball drawn
+488478	[6035]	:	subjects latest response 30.00 with RT 351.00
+488480	[2]	:	subject chose draw again
+488482	[2]	:	green urn sequence, blue ball drawn
+494514	[6032]	:	subjects latest response 28.00 with RT 561.00
+494516	[2]	:	the subject did not provide a correct response
+499032	[4516]	:	trial 17.00 p: 0.70
+499034	[2]	:	1  2  1  1  1  1  1  2  1  2
+502049	[3015]	:	blue urn sequence, blue ball drawn
+508084	[6035]	:	subjects latest response 30.00 with RT -159.00
+508086	[2]	:	subject chose draw again
+508088	[2]	:	blue urn sequence, green ball drawn
+514120	[6032]	:	subjects latest response 30.00 with RT 666.00
+514121	[1]	:	subject chose draw again
+514124	[3]	:	blue urn sequence, blue ball drawn
+520154	[6030]	:	subjects latest response 30.00 with RT 385.00
+520155	[1]	:	subject chose draw again
+520157	[2]	:	blue urn sequence, blue ball drawn
+526189	[6032]	:	subjects latest response 30.00 with RT 382.00
+526191	[2]	:	subject chose draw again
+526193	[2]	:	blue urn sequence, blue ball drawn
+532226	[6033]	:	subjects latest response 28.00 with RT 681.00
+532228	[2]	:	subject correctly chose blue
+536743	[4515]	:	trial 18.00 p: 0.70
+536745	[2]	:	1  1  2  1  2  1  1  2  1  1
+539760	[3015]	:	green urn sequence, green ball drawn
+545796	[6036]	:	subjects latest response 30.00 with RT 306.00
+545798	[2]	:	subject chose draw again
+545800	[2]	:	green urn sequence, green ball drawn
+551832	[6032]	:	subjects latest response 30.00 with RT 646.00
+551834	[2]	:	subject chose draw again
+551836	[2]	:	green urn sequence, blue ball drawn
+557867	[6031]	:	subjects latest response 30.00 with RT 387.00
+557869	[2]	:	subject chose draw again
+557871	[2]	:	green urn sequence, green ball drawn
+563902	[6031]	:	subjects latest response 30.00 with RT 422.00
+563904	[2]	:	subject chose draw again
+563906	[2]	:	green urn sequence, blue ball drawn
+569937	[6031]	:	subjects latest response 30.00 with RT 577.00
+569939	[2]	:	subject chose draw again
+569941	[2]	:	green urn sequence, green ball drawn
+575972	[6031]	:	subjects latest response 29.00 with RT 482.00
+575974	[2]	:	subject correctly chose green
+580490	[4516]	:	trial 19.00 p: 0.70
+580492	[2]	:	2  1  1  1  2  2  1  1  1  1
+583508	[3016]	:	blue urn sequence, green ball drawn
+589543	[6035]	:	subjects latest response 30.00 with RT 452.00
+589545	[2]	:	subject chose draw again
+589547	[2]	:	blue urn sequence, blue ball drawn
+595578	[6031]	:	subjects latest response 30.00 with RT 912.00
+595580	[2]	:	subject chose draw again
+595582	[2]	:	blue urn sequence, blue ball drawn
+601614	[6032]	:	subjects latest response 30.00 with RT 1592.00
+601616	[2]	:	subject chose draw again
+601618	[2]	:	blue urn sequence, blue ball drawn
+607649	[6031]	:	subjects latest response 30.00 with RT 507.00
+607651	[2]	:	subject chose draw again
+607653	[2]	:	blue urn sequence, green ball drawn
+613684	[6031]	:	subjects latest response 30.00 with RT 577.00
+613686	[2]	:	subject chose draw again
+613688	[2]	:	blue urn sequence, green ball drawn
+619720	[6032]	:	subjects latest response 30.00 with RT 532.00
+619722	[2]	:	subject chose draw again
+619724	[2]	:	blue urn sequence, blue ball drawn
+625755	[6031]	:	subjects latest response 30.00 with RT 1723.00
+625757	[2]	:	subject chose draw again
+625759	[2]	:	blue urn sequence, blue ball drawn
+631789	[6030]	:	subjects latest response 28.00 with RT 528.00
+631791	[2]	:	subject correctly chose blue
+636308	[4517]	:	trial 20.00 p: 0.70
+636310	[2]	:	1  2  2  1  2  1  1  1  1  1
+639325	[3015]	:	green urn sequence, green ball drawn
+645361	[6036]	:	subjects latest response 30.00 with RT 398.00
+645363	[2]	:	subject chose draw again
+645365	[2]	:	green urn sequence, blue ball drawn
+651397	[6032]	:	subjects latest response 30.00 with RT 543.00
+651399	[2]	:	subject chose draw again
+651401	[2]	:	green urn sequence, blue ball drawn
+657431	[6030]	:	subjects latest response 30.00 with RT 508.00
+657433	[2]	:	subject chose draw again
+657435	[2]	:	green urn sequence, green ball drawn
+663466	[6031]	:	subjects latest response 30.00 with RT 448.00
+663468	[2]	:	subject chose draw again
+663470	[2]	:	green urn sequence, blue ball drawn
+669502	[6032]	:	subjects latest response 28.00 with RT 398.00
+669504	[2]	:	the subject did not provide a correct response
+674020	[4516]	:	trial 21.00 p: 0.70
+674022	[2]	:	2  2  1  2  1  1  1  1  1  1
+677037	[3015]	:	blue urn sequence, green ball drawn
+683072	[6035]	:	subjects latest response 30.00 with RT 2923.00
+683074	[2]	:	subject chose draw again
+683076	[2]	:	blue urn sequence, green ball drawn
+689108	[6032]	:	subjects latest response 29.00 with RT 778.00
+689110	[2]	:	the subject did not provide a correct response
+693626	[4516]	:	trial 22.00 p: 0.70
+693628	[2]	:	2  2  1  1  1  2  1  1  1  1
+696643	[3015]	:	blue urn sequence, green ball drawn
+702678	[6035]	:	subjects latest response 30.00 with RT 568.00
+702680	[2]	:	subject chose draw again
+702682	[2]	:	blue urn sequence, green ball drawn
+708714	[6032]	:	subjects latest response 30.00 with RT 1328.00
+708716	[2]	:	subject chose draw again
+708718	[2]	:	blue urn sequence, blue ball drawn
+714749	[6031]	:	subjects latest response 30.00 with RT 1533.00
+714751	[2]	:	subject chose draw again
+714753	[2]	:	blue urn sequence, blue ball drawn
+720784	[6031]	:	subjects latest response 30.00 with RT 414.00
+720786	[2]	:	subject chose draw again
+720788	[2]	:	blue urn sequence, blue ball drawn
+726820	[6032]	:	subjects latest response 30.00 with RT 318.00
+726822	[2]	:	subject chose draw again
+726824	[2]	:	blue urn sequence, green ball drawn
+732855	[6031]	:	subjects latest response 30.00 with RT 533.00
+732857	[2]	:	subject chose draw again
+732859	[2]	:	blue urn sequence, blue ball drawn
+738891	[6032]	:	subjects latest response 30.00 with RT -1167.00
+738893	[2]	:	subject chose draw again
+738895	[2]	:	blue urn sequence, blue ball drawn
+744925	[6030]	:	subjects latest response 28.00 with RT 319.00
+744927	[2]	:	subject correctly chose blue
+749443	[4516]	:	trial 23.00 p: 0.70
+749445	[2]	:	1  1  1  1  1  1  2  2  1  2
+752460	[3015]	:	green urn sequence, green ball drawn
+758497	[6037]	:	subjects latest response 30.00 with RT 1869.00
+758499	[2]	:	subject chose draw again
+758501	[2]	:	green urn sequence, green ball drawn
+764531	[6030]	:	subjects latest response 30.00 with RT 544.00
+764533	[2]	:	subject chose draw again
+764535	[2]	:	green urn sequence, green ball drawn
+770566	[6031]	:	subjects latest response 29.00 with RT 319.00
+770568	[2]	:	subject correctly chose green
+775085	[4517]	:	trial 24.00 p: 0.70
+775087	[2]	:	2  1  1  1  1  2  1  2  1  1
+778102	[3015]	:	blue urn sequence, green ball drawn
+784138	[6036]	:	subjects latest response 30.00 with RT 274.00
+784140	[2]	:	subject chose draw again
+784142	[2]	:	blue urn sequence, blue ball drawn
+790171	[6029]	:	subjects latest response 30.00 with RT 319.00
+790172	[1]	:	subject chose draw again
+790172	[0]	:	blue urn sequence, blue ball drawn
+796208	[6036]	:	subjects latest response 30.00 with RT 374.00
+796210	[2]	:	subject chose draw again
+796212	[2]	:	blue urn sequence, blue ball drawn
+802243	[6031]	:	subjects latest response 28.00 with RT 304.00
+802245	[2]	:	subject correctly chose blue
+806761	[4516]	:	trial 25.00 p: 0.70
+806763	[2]	:	2  1  1  1  2  2  1  1  1  1
+809779	[3016]	:	green urn sequence, blue ball drawn
+815814	[6035]	:	subjects latest response 30.00 with RT 4.00
+815816	[2]	:	subject chose draw again
+815818	[2]	:	green urn sequence, green ball drawn
+821849	[6031]	:	subjects latest response 30.00 with RT 339.00
+821851	[2]	:	subject chose draw again
+821853	[2]	:	green urn sequence, green ball drawn
+827885	[6032]	:	subjects latest response 30.00 with RT 319.00
+827887	[2]	:	subject chose draw again
+827889	[2]	:	green urn sequence, green ball drawn
+833920	[6031]	:	subjects latest response 29.00 with RT 339.00
+833922	[2]	:	subject correctly chose green
+838437	[4515]	:	trial 26.00 p: 0.70
+838438	[1]	:	1  2  1  1  1  1  2  1  2  1
+841454	[3016]	:	green urn sequence, green ball drawn
+847491	[6037]	:	subjects latest response 30.00 with RT 2244.00
+847493	[2]	:	subject chose draw again
+847495	[2]	:	green urn sequence, blue ball drawn
+853526	[6031]	:	subjects latest response 30.00 with RT 854.00
+853528	[2]	:	subject chose draw again
+853530	[2]	:	green urn sequence, green ball drawn
+859561	[6031]	:	subjects latest response 30.00 with RT 489.00
+859563	[2]	:	subject chose draw again
+859565	[2]	:	green urn sequence, green ball drawn
+865597	[6032]	:	subjects latest response 29.00 with RT 489.00
+865599	[2]	:	subject correctly chose green
+870114	[4515]	:	trial 27.00 p: 0.70
+870116	[2]	:	1  1  1  2  1  1  1  1  2  2
+873131	[3015]	:	blue urn sequence, blue ball drawn
+879167	[6036]	:	subjects latest response 30.00 with RT 359.00
+879168	[1]	:	subject chose draw again
+879168	[0]	:	blue urn sequence, blue ball drawn
+885203	[6035]	:	subjects latest response 30.00 with RT 409.00
+885205	[2]	:	subject chose draw again
+885207	[2]	:	blue urn sequence, blue ball drawn
+891238	[6031]	:	subjects latest response 28.00 with RT 345.00
+891240	[2]	:	subject correctly chose blue
+895755	[4515]	:	trial 28.00 p: 0.70
+895757	[2]	:	1  1  1  1  2  2  1  2  1  1
+898773	[3016]	:	blue urn sequence, blue ball drawn
+904809	[6036]	:	subjects latest response 30.00 with RT 274.00
+904811	[2]	:	subject chose draw again
+904813	[2]	:	blue urn sequence, blue ball drawn
+910844	[6031]	:	subjects latest response 30.00 with RT 410.00
+910846	[2]	:	subject chose draw again
+910848	[2]	:	blue urn sequence, blue ball drawn
+916879	[6031]	:	subjects latest response 28.00 with RT 790.00
+916881	[2]	:	subject correctly chose blue
+921397	[4516]	:	trial 29.00 p: 0.70
+921399	[2]	:	2  1  1  2  2  1  1  1  1  1
+924414	[3015]	:	blue urn sequence, green ball drawn
+930450	[6036]	:	subjects latest response 30.00 with RT 365.00
+930452	[2]	:	subject chose draw again
+930454	[2]	:	blue urn sequence, blue ball drawn
+936486	[6032]	:	subjects latest response 30.00 with RT 560.00
+936488	[2]	:	subject chose draw again
+936490	[2]	:	blue urn sequence, blue ball drawn
+942520	[6030]	:	subjects latest response 30.00 with RT 365.00
+942522	[2]	:	subject chose draw again
+942524	[2]	:	blue urn sequence, green ball drawn
+948556	[6032]	:	subjects latest response 30.00 with RT 360.00
+948558	[2]	:	subject chose draw again
+948560	[2]	:	blue urn sequence, green ball drawn
+954591	[6031]	:	subjects latest response 30.00 with RT 1120.00
+954593	[2]	:	subject chose draw again
+954595	[2]	:	blue urn sequence, blue ball drawn
+960626	[6031]	:	subjects latest response 30.00 with RT 370.00
+960628	[2]	:	subject chose draw again
+960630	[2]	:	blue urn sequence, blue ball drawn
+966662	[6032]	:	subjects latest response 28.00 with RT 425.00
+966664	[2]	:	subject correctly chose blue
+971180	[4516]	:	trial 30.00 p: 0.70
+971182	[2]	:	2  1  1  1  2  1  1  1  2  1
+974196	[3014]	:	blue urn sequence, green ball drawn
+980232	[6036]	:	subjects latest response 30.00 with RT 325.00
+980234	[2]	:	subject chose draw again
+980236	[2]	:	blue urn sequence, blue ball drawn
+986268	[6032]	:	subjects latest response 30.00 with RT 315.00
+986270	[2]	:	subject chose draw again
+986271	[1]	:	blue urn sequence, blue ball drawn
+992303	[6032]	:	subjects latest response 30.00 with RT 405.00
+992305	[2]	:	subject chose draw again
+992307	[2]	:	blue urn sequence, blue ball drawn
+998338	[6031]	:	subjects latest response 28.00 with RT 340.00
+998340	[2]	:	subject correctly chose blue
+1002856	[4516]	:	trial 31.00 p: 0.70
+1002858	[2]	:	1  1  1  2  1  1  2  2  1  1
+1005873	[3015]	:	blue urn sequence, blue ball drawn
+1011909	[6036]	:	subjects latest response 30.00 with RT 440.00
+1011911	[2]	:	subject chose draw again
+1011913	[2]	:	blue urn sequence, blue ball drawn
+1017944	[6031]	:	subjects latest response 30.00 with RT 711.00
+1017946	[2]	:	subject chose draw again
+1017948	[2]	:	blue urn sequence, blue ball drawn
+1023980	[6032]	:	subjects latest response 28.00 with RT 666.00
+1023982	[2]	:	subject correctly chose blue
+1028497	[4515]	:	trial 32.00 p: 0.70
+1028499	[2]	:	2  2  2  1  1  1  1  1  1  1
+1031513	[3014]	:	blue urn sequence, green ball drawn
+1037550	[6037]	:	subjects latest response 30.00 with RT 535.00
+1037553	[3]	:	subject chose draw again
+1037555	[2]	:	blue urn sequence, green ball drawn
+1043586	[6031]	:	subjects latest response 30.00 with RT 860.00
+1043588	[2]	:	subject chose draw again
+1043589	[1]	:	blue urn sequence, green ball drawn
+1049619	[6030]	:	subjects latest response 29.00 with RT 432.00
+1049621	[2]	:	the subject did not provide a correct response
+1054138	[4517]	:	trial 33.00 p: 0.70
+1054140	[2]	:	2  2  1  1  1  1  1  1  1  2
+1057156	[3016]	:	green urn sequence, blue ball drawn
+1063191	[6035]	:	subjects latest response 30.00 with RT 301.00
+1063193	[2]	:	subject chose draw again
+1063194	[1]	:	green urn sequence, blue ball drawn
+1069227	[6033]	:	subjects latest response 28.00 with RT 721.00
+1069228	[1]	:	the subject did not provide a correct response
+1073745	[4517]	:	trial 34.00 p: 0.70
+1073747	[2]	:	1  1  1  2  1  1  2  1  2  1
+1076762	[3015]	:	blue urn sequence, blue ball drawn
+1082798	[6036]	:	subjects latest response 30.00 with RT 401.00
+1082800	[2]	:	subject chose draw again
+1082802	[2]	:	blue urn sequence, blue ball drawn
+1088833	[6031]	:	subjects latest response 28.00 with RT 956.00
+1088835	[2]	:	subject correctly chose blue
+1093351	[4516]	:	trial 35.00 p: 0.70
+1093353	[2]	:	1  1  1  1  1  2  2  1  2  1
+1096368	[3015]	:	green urn sequence, green ball drawn
+1102404	[6036]	:	subjects latest response 30.00 with RT 531.00
+1102406	[2]	:	subject chose draw again
+1102408	[2]	:	green urn sequence, green ball drawn
+1108440	[6032]	:	subjects latest response 30.00 with RT 471.00
+1108442	[2]	:	subject chose draw again
+1108444	[2]	:	green urn sequence, green ball drawn
+1114474	[6030]	:	subjects latest response 29.00 with RT 421.00
+1114476	[2]	:	subject correctly chose green
+1118992	[4516]	:	trial 36.00 p: 0.70
+1118994	[2]	:	1  2  2  1  1  2  1  1  1  1
+1122009	[3015]	:	green urn sequence, green ball drawn
+1128046	[6037]	:	subjects latest response 30.00 with RT 841.00
+1128048	[2]	:	subject chose draw again
+1128050	[2]	:	green urn sequence, blue ball drawn
+1134080	[6030]	:	subjects latest response 30.00 with RT 341.00
+1134082	[2]	:	subject chose draw again
+1134084	[2]	:	green urn sequence, blue ball drawn
+1140115	[6031]	:	subjects latest response 30.00 with RT 441.00
+1140117	[2]	:	subject chose draw again
+1140119	[2]	:	green urn sequence, green ball drawn
+1146151	[6032]	:	subjects latest response 30.00 with RT 296.00
+1146153	[2]	:	subject chose draw again
+1146155	[2]	:	green urn sequence, green ball drawn
+1152186	[6031]	:	subjects latest response 30.00 with RT 386.00
+1152188	[2]	:	subject chose draw again
+1152190	[2]	:	green urn sequence, blue ball drawn
+1158222	[6032]	:	subjects latest response 30.00 with RT 281.00
+1158224	[2]	:	subject chose draw again
+1158226	[2]	:	green urn sequence, green ball drawn
+1164257	[6031]	:	subjects latest response 30.00 with RT 316.00
+1164259	[2]	:	subject chose draw again
+1164261	[2]	:	green urn sequence, green ball drawn
+1170292	[6031]	:	subjects latest response 29.00 with RT 271.00
+1170294	[2]	:	subject correctly chose green
+1174809	[4515]	:	trial 37.00 p: 0.70
+1174811	[2]	:	2  2  1  1  1  2  1  1  1  1
+1177827	[3016]	:	blue urn sequence, green ball drawn
+1183863	[6036]	:	subjects latest response 30.00 with RT 476.00
+1183865	[2]	:	subject chose draw again
+1183867	[2]	:	blue urn sequence, green ball drawn
+1189898	[6031]	:	subjects latest response 29.00 with RT 316.00
+1189900	[2]	:	the subject did not provide a correct response
+1194416	[4516]	:	trial 38.00 p: 0.70
+1194418	[2]	:	2  1  1  1  1  1  1  2  1  2
+1197433	[3015]	:	green urn sequence, blue ball drawn
+1203469	[6036]	:	subjects latest response 30.00 with RT 326.00
+1203471	[2]	:	subject chose draw again
+1203473	[2]	:	green urn sequence, green ball drawn
+1209504	[6031]	:	subjects latest response 30.00 with RT 396.00
+1209506	[2]	:	subject chose draw again
+1209508	[2]	:	green urn sequence, green ball drawn
+1215540	[6032]	:	subjects latest response 30.00 with RT 392.00
+1215542	[2]	:	subject chose draw again
+1215544	[2]	:	green urn sequence, green ball drawn
+1221575	[6031]	:	subjects latest response 29.00 with RT 302.00
+1221577	[2]	:	subject correctly chose green
+1226092	[4515]	:	trial 39.00 p: 0.70
+1226094	[2]	:	1  1  2  1  1  1  1  2  2  1
+1229110	[3016]	:	green urn sequence, green ball drawn
+1235146	[6036]	:	subjects latest response 30.00 with RT 1002.00
+1235148	[2]	:	subject chose draw again
+1235150	[2]	:	green urn sequence, green ball drawn
+1241181	[6031]	:	subjects latest response 30.00 with RT 377.00
+1241183	[2]	:	subject chose draw again
+1241185	[2]	:	green urn sequence, blue ball drawn
+1247216	[6031]	:	subjects latest response 30.00 with RT 587.00
+1247218	[2]	:	subject chose draw again
+1247220	[2]	:	green urn sequence, green ball drawn
+1253251	[6031]	:	subjects latest response 29.00 with RT 712.00
+1253253	[2]	:	subject correctly chose green
+1257769	[4516]	:	trial 40.00 p: 0.70
+1257771	[2]	:	2  1  1  1  2  1  2  1  1  1
+1260786	[3015]	:	green urn sequence, blue ball drawn
+1266824	[6038]	:	subjects latest response 0.00 with RT -1263321.00
+1266826	[2]	:	the subject did not provide a correct response
+1271410	[4584]	:	COGENT STOP

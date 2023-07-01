@@ -1,0 +1,239 @@
+Cog2000 log file Fri Feb 03 14:55:13 2017
+gprim v1.32 Compiled:Feb  5 2013 (GLib DirectDraw v7 DX10.0 Compiled:Feb  5 2013)
+Display:1024x768x32 59.99Hz
+CogInput v1.05 Compiled: May 20 2010
+1	[1]	:	COGENT START
+23066	[23065]	:	Key	71	DOWN	at	23066   
+24069	[1003]	:	24067
+24072	[3]	:	1
+24075	[3]	:	trial 1.00 p: 0.70
+24151	[76]	:	1  2  1  1  2  1  2  1  1  1
+27185	[3034]	:	blue urn sequence, blue ball drawn
+33234	[6049]	:	subjects latest response 28.00 with RT 904.00
+33242	[8]	:	subject correctly chose blue
+37764	[4522]	:	trial 2.00 p: 0.70
+37766	[2]	:	2  1  1  2  1  1  1  2  1  1
+40781	[3015]	:	blue urn sequence, green ball drawn
+46817	[6036]	:	subjects latest response 30.00 with RT 407.00
+46819	[2]	:	subject chose draw again
+46822	[3]	:	blue urn sequence, blue ball drawn
+52852	[6030]	:	subjects latest response 28.00 with RT 1362.00
+52854	[2]	:	subject correctly chose blue
+57370	[4516]	:	trial 3.00 p: 0.70
+57372	[2]	:	2  1  2  2  1  1  1  1  1  1
+60387	[3015]	:	green urn sequence, blue ball drawn
+66423	[6036]	:	subjects latest response 28.00 with RT 832.00
+66425	[2]	:	the subject did not provide a correct response
+70941	[4516]	:	trial 4.00 p: 0.70
+70943	[2]	:	2  2  1  1  1  2  1  1  1  1
+73959	[3016]	:	green urn sequence, blue ball drawn
+79993	[6034]	:	subjects latest response 28.00 with RT 767.00
+79995	[2]	:	the subject did not provide a correct response
+84512	[4517]	:	trial 5.00 p: 0.70
+84514	[2]	:	1  1  2  1  1  2  1  1  1  2
+87529	[3015]	:	blue urn sequence, blue ball drawn
+93564	[6035]	:	subjects latest response 30.00 with RT 412.00
+93566	[2]	:	subject chose draw again
+93568	[2]	:	blue urn sequence, blue ball drawn
+99600	[6032]	:	subjects latest response 28.00 with RT 542.00
+99602	[2]	:	subject correctly chose blue
+104118	[4516]	:	trial 6.00 p: 0.70
+104120	[2]	:	1  1  2  1  1  1  1  2  2  1
+107135	[3015]	:	blue urn sequence, blue ball drawn
+113170	[6035]	:	subjects latest response 28.00 with RT 622.00
+113172	[2]	:	subject correctly chose blue
+117689	[4517]	:	trial 7.00 p: 0.70
+117691	[2]	:	1  1  2  2  1  1  2  1  1  1
+120706	[3015]	:	green urn sequence, green ball drawn
+126742	[6036]	:	subjects latest response 30.00 with RT 616.00
+126744	[2]	:	subject chose draw again
+126746	[2]	:	green urn sequence, green ball drawn
+132777	[6031]	:	subjects latest response 29.00 with RT 716.00
+132779	[2]	:	subject correctly chose green
+137295	[4516]	:	trial 8.00 p: 0.70
+137296	[1]	:	1  1  1  1  1  1  2  1  2  2
+140312	[3016]	:	blue urn sequence, blue ball drawn
+146348	[6036]	:	subjects latest response 28.00 with RT 1251.00
+146350	[2]	:	subject correctly chose blue
+150865	[4515]	:	trial 9.00 p: 0.70
+150867	[2]	:	2  1  1  2  1  1  2  1  1  1
+153883	[3016]	:	blue urn sequence, green ball drawn
+159919	[6036]	:	subjects latest response 30.00 with RT 846.00
+159921	[2]	:	subject chose draw again
+159923	[2]	:	blue urn sequence, blue ball drawn
+165954	[6031]	:	subjects latest response 28.00 with RT 1706.00
+165956	[2]	:	subject correctly chose blue
+170472	[4516]	:	trial 10.00 p: 0.70
+170474	[2]	:	1  1  1  2  1  2  1  1  2  1
+173489	[3015]	:	blue urn sequence, blue ball drawn
+179525	[6036]	:	subjects latest response 28.00 with RT 2641.00
+179527	[2]	:	subject correctly chose blue
+184043	[4516]	:	trial 11.00 p: 0.70
+184045	[2]	:	2  1  1  1  1  2  1  1  1  2
+187060	[3015]	:	green urn sequence, blue ball drawn
+193095	[6035]	:	subjects latest response 28.00 with RT 816.00
+193096	[1]	:	the subject did not provide a correct response
+197612	[4516]	:	trial 12.00 p: 0.70
+197612	[0]	:	1  1  1  2  2  1  1  1  1  2
+200630	[3018]	:	green urn sequence, green ball drawn
+206667	[6037]	:	subjects latest response 29.00 with RT 526.00
+206669	[2]	:	subject correctly chose green
+211185	[4516]	:	trial 13.00 p: 0.70
+211187	[2]	:	1  1  1  1  2  1  1  2  1  2
+214202	[3015]	:	blue urn sequence, blue ball drawn
+220237	[6035]	:	subjects latest response 28.00 with RT 441.00
+220239	[2]	:	subject correctly chose blue
+224756	[4517]	:	trial 14.00 p: 0.70
+224758	[2]	:	1  2  1  1  1  1  1  2  2  1
+227773	[3015]	:	green urn sequence, green ball drawn
+233808	[6035]	:	subjects latest response 30.00 with RT 616.00
+233816	[8]	:	subject chose draw again
+233818	[2]	:	green urn sequence, blue ball drawn
+239844	[6026]	:	subjects latest response 28.00 with RT 666.00
+239846	[2]	:	the subject did not provide a correct response
+244362	[4516]	:	trial 15.00 p: 0.70
+244364	[2]	:	1  1  2  1  1  1  2  2  1  1
+247379	[3015]	:	green urn sequence, green ball drawn
+253414	[6035]	:	subjects latest response 30.00 with RT 831.00
+253416	[2]	:	subject chose draw again
+253418	[2]	:	green urn sequence, green ball drawn
+259450	[6032]	:	subjects latest response 29.00 with RT 716.00
+259452	[2]	:	subject correctly chose green
+263967	[4515]	:	trial 16.00 p: 0.70
+263969	[2]	:	1  1  2  1  2  2  1  1  1  1
+266985	[3016]	:	blue urn sequence, blue ball drawn
+273020	[6035]	:	subjects latest response 28.00 with RT 562.00
+273022	[2]	:	subject correctly chose blue
+277539	[4517]	:	trial 17.00 p: 0.70
+277540	[1]	:	2  2  2  1  1  1  1  1  1  1
+280556	[3016]	:	green urn sequence, blue ball drawn
+286592	[6036]	:	subjects latest response 28.00 with RT 366.00
+286594	[2]	:	the subject did not provide a correct response
+291109	[4515]	:	trial 18.00 p: 0.70
+291111	[2]	:	1  1  1  1  1  2  2  1  2  1
+294127	[3016]	:	green urn sequence, green ball drawn
+300163	[6036]	:	subjects latest response 30.00 with RT 510.00
+300165	[2]	:	subject chose draw again
+300167	[2]	:	green urn sequence, green ball drawn
+306198	[6031]	:	subjects latest response 29.00 with RT 3147.00
+306200	[2]	:	subject correctly chose green
+310716	[4516]	:	trial 19.00 p: 0.70
+310718	[2]	:	1  1  1  1  2  2  1  1  1  2
+313733	[3015]	:	blue urn sequence, blue ball drawn
+319769	[6036]	:	subjects latest response 28.00 with RT 990.00
+319771	[2]	:	subject correctly chose blue
+324286	[4515]	:	trial 20.00 p: 0.70
+324288	[2]	:	1  1  1  2  2  1  1  1  1  2
+327304	[3016]	:	blue urn sequence, blue ball drawn
+333340	[6036]	:	subjects latest response 28.00 with RT 300.00
+333342	[2]	:	subject correctly chose blue
+337858	[4516]	:	trial 21.00 p: 0.70
+337860	[2]	:	1  1  1  1  2  1  2  1  2  1
+340875	[3015]	:	green urn sequence, green ball drawn
+346911	[6036]	:	subjects latest response 28.00 with RT 1750.00
+346913	[2]	:	the subject did not provide a correct response
+351429	[4516]	:	trial 22.00 p: 0.70
+351431	[2]	:	2  1  2  1  1  1  1  2  1  1
+354446	[3015]	:	blue urn sequence, green ball drawn
+360481	[6035]	:	subjects latest response 30.00 with RT 435.00
+360483	[2]	:	subject chose draw again
+360485	[2]	:	blue urn sequence, blue ball drawn
+366517	[6032]	:	subjects latest response 29.00 with RT 530.00
+366519	[2]	:	the subject did not provide a correct response
+371035	[4516]	:	trial 23.00 p: 0.70
+371037	[2]	:	2  1  2  2  1  1  1  1  1  1
+374053	[3016]	:	blue urn sequence, green ball drawn
+380088	[6035]	:	subjects latest response 29.00 with RT 605.00
+380091	[3]	:	the subject did not provide a correct response
+384606	[4515]	:	trial 24.00 p: 0.70
+384608	[2]	:	1  2  1  2  1  1  1  1  2  1
+387623	[3015]	:	green urn sequence, green ball drawn
+393658	[6035]	:	subjects latest response 29.00 with RT 1660.00
+393660	[2]	:	subject correctly chose green
+398177	[4517]	:	trial 25.00 p: 0.70
+398179	[2]	:	1  1  1  1  2  1  2  2  1  1
+401194	[3015]	:	blue urn sequence, blue ball drawn
+407230	[6036]	:	subjects latest response 28.00 with RT 580.00
+407232	[2]	:	subject correctly chose blue
+411747	[4515]	:	trial 26.00 p: 0.70
+411749	[2]	:	1  1  1  1  1  2  1  2  1  2
+414765	[3016]	:	blue urn sequence, blue ball drawn
+420800	[6035]	:	subjects latest response 28.00 with RT 349.00
+420801	[1]	:	subject correctly chose blue
+425318	[4517]	:	trial 27.00 p: 0.70
+425320	[2]	:	1  1  1  2  2  1  1  2  1  1
+428335	[3015]	:	green urn sequence, green ball drawn
+434372	[6037]	:	subjects latest response 30.00 with RT 724.00
+434374	[2]	:	subject chose draw again
+434376	[2]	:	green urn sequence, green ball drawn
+440407	[6031]	:	subjects latest response 29.00 with RT 440.00
+440409	[2]	:	subject correctly chose green
+444924	[4515]	:	trial 28.00 p: 0.70
+444926	[2]	:	1  1  2  1  2  1  1  1  2  1
+447942	[3016]	:	blue urn sequence, blue ball drawn
+453978	[6036]	:	subjects latest response 29.00 with RT -4866.00
+453985	[7]	:	the subject did not provide a correct response
+458495	[4510]	:	trial 29.00 p: 0.70
+458497	[2]	:	1  2  1  1  2  1  1  2  1  1
+461512	[3015]	:	green urn sequence, green ball drawn
+467549	[6037]	:	subjects latest response 29.00 with RT -541.00
+467551	[2]	:	subject correctly chose green
+472067	[4516]	:	trial 30.00 p: 0.70
+472069	[2]	:	2  2  1  1  2  1  1  1  1  1
+475083	[3014]	:	green urn sequence, blue ball drawn
+481119	[6036]	:	subjects latest response 28.00 with RT 664.00
+481121	[2]	:	the subject did not provide a correct response
+485638	[4517]	:	trial 31.00 p: 0.70
+485640	[2]	:	2  2  1  1  2  1  1  1  1  1
+488655	[3015]	:	green urn sequence, blue ball drawn
+494690	[6035]	:	subjects latest response 28.00 with RT 519.00
+494692	[2]	:	the subject did not provide a correct response
+499208	[4516]	:	trial 32.00 p: 0.70
+499210	[2]	:	1  1  1  2  2  2  1  1  1  1
+502226	[3016]	:	blue urn sequence, blue ball drawn
+508261	[6035]	:	subjects latest response 28.00 with RT 744.00
+508263	[2]	:	subject correctly chose blue
+512779	[4516]	:	trial 33.00 p: 0.70
+512780	[1]	:	1  2  1  1  1  1  2  1  1  2
+515796	[3016]	:	blue urn sequence, blue ball drawn
+521832	[6036]	:	subjects latest response 28.00 with RT 774.00
+521833	[1]	:	subject correctly chose blue
+526350	[4517]	:	trial 34.00 p: 0.70
+526352	[2]	:	1  2  1  1  2  1  1  2  1  1
+529367	[3015]	:	green urn sequence, green ball drawn
+535403	[6036]	:	subjects latest response 29.00 with RT 273.00
+535405	[2]	:	subject correctly chose green
+539921	[4516]	:	trial 35.00 p: 0.70
+539923	[2]	:	1  2  2  1  1  2  1  1  1  1
+542938	[3015]	:	blue urn sequence, blue ball drawn
+548974	[6036]	:	subjects latest response 28.00 with RT 753.00
+548976	[2]	:	subject correctly chose blue
+553491	[4515]	:	trial 36.00 p: 0.70
+553493	[2]	:	1  2  2  1  1  1  1  1  2  1
+556509	[3016]	:	green urn sequence, green ball drawn
+562545	[6036]	:	subjects latest response 0.00 with RT -559044.00
+562548	[3]	:	the subject did not provide a correct response
+567063	[4515]	:	trial 37.00 p: 0.70
+567065	[2]	:	1  1  2  2  1  1  2  1  1  1
+570079	[3014]	:	green urn sequence, green ball drawn
+576116	[6037]	:	subjects latest response 29.00 with RT 988.00
+576118	[2]	:	subject correctly chose green
+580634	[4516]	:	trial 38.00 p: 0.70
+580636	[2]	:	1  1  1  1  1  2  1  2  1  2
+583651	[3015]	:	green urn sequence, green ball drawn
+589687	[6036]	:	subjects latest response 30.00 with RT 448.00
+589689	[2]	:	subject chose draw again
+589691	[2]	:	green urn sequence, green ball drawn
+595722	[6031]	:	subjects latest response 29.00 with RT 493.00
+595724	[2]	:	subject correctly chose green
+600240	[4516]	:	trial 39.00 p: 0.70
+600242	[2]	:	2  1  1  1  2  2  1  1  1  1
+603257	[3015]	:	green urn sequence, blue ball drawn
+609293	[6036]	:	subjects latest response 28.00 with RT 468.00
+609295	[2]	:	the subject did not provide a correct response
+613811	[4516]	:	trial 40.00 p: 0.70
+613813	[2]	:	1  1  1  1  2  1  1  2  2  1
+616828	[3015]	:	blue urn sequence, blue ball drawn
+622863	[6035]	:	subjects latest response 28.00 with RT 369.00
+622865	[2]	:	subject correctly chose blue
+627455	[4590]	:	COGENT STOP

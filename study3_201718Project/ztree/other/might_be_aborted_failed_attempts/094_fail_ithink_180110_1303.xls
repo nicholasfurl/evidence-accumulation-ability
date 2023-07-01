@@ -1,0 +1,8 @@
+180110_1303	1	globals	Period	NumPeriods	RepeatTreatment	
+180110_1303	1	globals	1	1	0	
+180110_1303	1	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	
+180110_1303	1	subjects	1	1	1	0	0	1	
+180110_1303	1	summary	Period	
+180110_1303	1	summary	1	
+180110_1303	1	session	Subject	FinalProfit	ShowUpFee	ShowUpFeeInvested	MoneyAdded	MoneyToPay	MoneyEarned	
+180110_1303	1	session	1	0	0	0	0	0	0	
