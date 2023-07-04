@@ -49,7 +49,9 @@ def my_corr_mat(data):
     #make triangular mask, revealing only lower half
     cp = (calculate_pvalues(data)<1).to_numpy()
     cp[np.triu_indices_from(cp)] = False
-    sns.heatmap(c, annot = annot, mask = np.invert(cp),vmin=-1,vmax=1,cmap='seismic',xticklabels=1,yticklabels=1)
+    sns.heatmap(c, annot = annot, mask = np.invert(cp),vmin=-1,vmax=1,cmap='seismic',xticklabels=1,yticklabels=1, annot_kws={"size": annot_size-4}, fmt='.1g')
+    plt.xticks(rotation=xaxis_rot) 
+
     
     if explore != 1:
     
@@ -69,7 +71,7 @@ def my_dendos(data):
     
     cg = sns.clustermap(data, metric="correlation", method = "single", standard_scale = 1, cmap = "Blues", row_cluster=False, fmt = ".1g",  annot = annot, annot_kws={"size": 8}, yticklabels = False, tree_kws={"linewidths": 1.5}, xticklabels=1)
     
-    plt.setp(cg.ax_heatmap.xaxis.get_majorticklabels(), rotation=90)
+    plt.setp(cg.ax_heatmap.xaxis.get_majorticklabels(), rotation=xaxis_rot)
  
     sns.set(font_scale= 1)
     cg.cax.set_visible(False)
@@ -117,8 +119,10 @@ def eigenvalues(data):
 
     #loadings of kept factors
     plt.figure(dpi=dpi)
-    cg = sns.heatmap(df_loadings, annot = True, vmin=-1,vmax=1,cmap='PiYG',xticklabels=True,yticklabels=True,fmt='.1g',annot_kws={"size": 10})
+    cg = sns.heatmap(df_loadings, annot = True, vmin=-1,vmax=1,cmap='PiYG',xticklabels=True,yticklabels=True,fmt='.1g',annot_kws={"size": annot_size})
     plt.xlabel('Factor')
+    plt.xticks(rotation=xaxis_rot) 
+
     
     if explore != 1:
     
@@ -174,44 +178,46 @@ def eigenvalues(data):
 explore = 0    
 dpi = 1000  
 inches = 10
+xaxis_rot = 65
+annot_size = 16
 
 data_files = [
     '\study1_delusionData_pdiBeadsBestChoice.csv',
     '\study2_riskData_dospertHandLBestChoice.csv',
     '\study3_N136.csv',
-    '\study4_justinAndBestChoice_Nalmost300.csv',
-    '\study4_justinBestChoiceAndCMT_Napprox140.csv'
+    #'\study4_justinAndBestChoice_Nalmost300.csv',
+    #'\study4_justinBestChoiceAndCMT_Napprox140.csv'
     ]
 
 old_cols = [
     ["views_subject_human","rank_subjects","average_draws","average_correct", "pdi_total"],
     ["Views_Subjects","Rank_Subjects","ztree","NonSocial_Risk_Taking","Social_Risk_Taking","dospert_sum"],
     ["human_samples", "human_rank", "beads_draws", "beads_accuracy", "PDI", "holt_laurie","Total_dospert"],
-    ["samples", "ranks", "beadsDraws", "la_bead", "ipr", "pr", "overAdjust", "evidenceInt", "bace", "posResp", "la_bade", "pdiTotal","cape", "dospert", "crt", "verbalReasoning", "wordSum"],
-    ["rt","response","drift_rate","decision_trheshold","samples", "ranks", "beadsDraws", "la_bead", "ipr", "pr", "overAdjust", "evidenceInt", "bace", "posResp", "la_bade", "PDI","cape", "CAPS", "ASI", "dospert", "crt", "verbalReasoning", "wordSum"]
+    #["samples", "ranks", "beadsDraws", "la_bead", "ipr", "pr", "overAdjust", "evidenceInt", "bace", "posResp", "la_bade", "pdiTotal","cape", "dospert", "crt", "verbalReasoning", "wordSum"],
+    #["rt","response","drift_rate","decision_trheshold","samples", "ranks", "beadsDraws", "la_bead", "ipr", "pr", "overAdjust", "evidenceInt", "bace", "posResp", "la_bade", "PDI","cape", "CAPS", "ASI", "dospert", "crt", "verbalReasoning", "wordSum"]
     ]
 
 new_cols = [
-    ["Best choice samples", "Best choice accuracy", "Beads samples","Beads accuracy","PDI"],
-    ["Best choice samples", "Best choice accuracy", "Risk seeking task","DOSPERT nonsocial risk","DOSPERT social risk", "DOSPERT total"],
-    ["Best choice samples", "Best choice accuracy", "Beads samples","Beads accuracy","PDI","Risk seeking task","DOSPERT"],
-    ["Best choice samples", "Best choice accuracy", "Beads samples","Beads liberal","Beads first rating","Beads prior rating", "Beads overadjustment","BADE bias", "BADE BACE", "BADE response", "BADE liberal", "PDI","PDI-CAPE", "DOSPERT","Cognitive ability - crt", "Cognitive Ability verbal","Cognitive ability wordsum"],
-    ["Motion choice RT", "Motion choice accuracy", "Motion choice drift rate","Motion choice threshold","Best choice samples", "Best choice accuracy", "Beads samples","Beads liberal","Beads first rating","Beads prior rating", "Beads overadjustment","BADE bias", "BADE BACE", "BADE response", "BADE liberal", "PDI","PDI-CAPE", "CAPS", "ASI", "DOSPERT","Cognitive ability - crt", "Cognitive Ability verbal","Cognitive ability wordsum"]
+    ["Best choice samples", "Best choice accuracy", "Beads samples","Beads accuracy","PDI (delusion)"],
+    ["Best choice samples", "Best choice accuracy", "Risk seeking task","DOSPERT nonsocial risk","DOSPERT social risk", "DOSPERT total risk"],
+    ["Best choice samples", "Best choice accuracy", "Beads samples","Beads accuracy","PDI (delusion)","Risk seeking task","DOSPERT (risk)"],
+    #["Best choice samples", "Best choice accuracy", "Beads samples","Beads liberal","Beads first rating","Beads prior rating", "Beads overadjustment","BADE bias", "BADE BACE", "BADE response", "BADE liberal", "PDI","PDI-CAPE", "DOSPERT","Cognitive ability - crt", "Cognitive Ability verbal","Cognitive ability wordsum"],
+   # ["Motion choice RT", "Motion choice accuracy", "Motion choice drift rate","Motion choice threshold","Best choice samples", "Best choice accuracy", "Beads samples","Beads liberal","Beads first rating","Beads prior rating", "Beads overadjustment","BADE bias", "BADE BACE", "BADE response", "BADE liberal", "PDI","PDI-CAPE", "CAPS", "ASI", "DOSPERT","Cognitive ability - crt", "Cognitive Ability verbal","Cognitive ability wordsum"]
     ]
 
 #CAREFUL: Only applicable for certain factor analysis configuration
-factor_names = [["Accuracy","Beads samples & Delusion"],
-                ["Risk seeking","Best Choice & Risk seeking"],
-                ["Beads samples & Delusion","Risk seeking","Best Choice & Risk seeking"],
-                ["Delusion", "BADE", "Beads & Cog ability", "BADE", "Best Choice", "Beads", "Beads"],
-                ["Delusion", "Motion choice", "Motion choice", "BADE", "BADE", "Psychosis", "Beads & Cog ability", "Cog ability", "Beads"]
+factor_names = [["Accuracy","Beads samples & delusion"],
+                ["Risk seeking","Best Choice & risk seeking"],
+                ["Beads samples & Delusion","Risk seeking","Best Choice & risk seeking"],
+                #["Delusion", "BADE", "Beads & Cog ability", "BADE", "Best Choice", "Beads", "Beads"],
+                #["Delusion", "Motion choice", "Motion choice", "BADE", "BADE", "Psychosis", "Beads & Cog ability", "Cog ability", "Beads"]
                 ]
 
 for idx, file in enumerate(data_files):
     
     data = read_in_data(file,old_cols[idx],new_cols[idx]);
 
-    my_dendos(data)
+    #my_dendos(data)
     my_corr_mat(data)
     eigenvalues(data)
 

@@ -155,8 +155,8 @@ for idx, file in enumerate(data_files):
     
     data = read_in_data(file,old_cols[idx],new_cols[idx]);
 
-    # my_dendos(data.iloc[:,1:-1])
-    # my_corr_mat(data.iloc[:,1:-1])
+    my_dendos(data.iloc[:,1:-1])
+    my_corr_mat(data.iloc[:,1:-1])
     scores = data_scores = eigenvalues(data.iloc[:,1:-1])
     
     #add NumPy matrix as new columns in DataFrame
